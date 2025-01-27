@@ -57,7 +57,7 @@ http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #khichtivi=video/120.0.0.0
-https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+https://d.org.vn/khichtv-go-vtv12-hd-mpd
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1188,7 +1188,7 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/52HDD5k/vtv-Hue-khichtv.png", VTV HUẾ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF: -1 tvg-id = "tiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/zz2iq4do_tien-giang_296_168.webp", THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF: -1 tvg-id = "vinhphuc" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/j8fjg1uj_vinh-phuc_296_168.webp", VP HD | TH Vĩnh Phúc
