@@ -1221,12 +1221,13 @@ http://202.150.172.3:5000/udp/239.1.1.95:8544
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.150.172.3:5000/udp/239.1.1.215:9264
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
-http://170.254.18.106/HBO_FAMILY/index.m3u8
+http://170.254.18.106/CINEMAX/index.m3u8
+#http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=khichtv/17-03-24
 #EXTVLCOPT:http-use  zmr-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://170.254.18.106/CINEMAX/index.m3u8
+https://p11.magicplaces.eu/cinemax2sd/video.m3u8?token=11662a34b8c55ed05c447a5e08a2142d2829f7ad-31f7ac98acadb394b0ff95946823e304-1738693303-1738682503&remote=no_check_ip
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/Wz8NkG2/khichtv-live-Cinemax.jpg" group-title="Quốc Tế",Cinemax khích Tivi Online🇻🇳
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1263,7 +1264,7 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?khichtv
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.63:11674
+https://p11.magicplaces.eu/warner/video.m3u8?token=5aab8cc6ca1919813d100a930cb1729cdcfbbcd7-a981aeaaede5bcdfef5e749e68ff9a09-1738693240-1738682440&remote=no_check_ip
 
 #=*==_==BOX QT-_=*#
 
