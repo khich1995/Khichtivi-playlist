@@ -1609,7 +1609,7 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/ust9ctjd_boomerang_296_168.webp", Boomerang HD🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.222:11254
+https://p11.magicplaces.eu/cartoonito-boomerang/video.m3u8?token=19dd1fd219709a65ef4b3ef9151de992beb2bcc5-ce70306c664245ccb3a5060be8bd1b30-1738694180-1738683380&remote=no_check_ip
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/PZKX7wb/cn-logo-khichtv-2025.jpg", CN HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -1617,16 +1617,16 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇻🇳
 #EXTVLCOPT:http-user-agent=VKhichTivi
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.62:11680
+https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8?token=890cb20821d54a41cd6010a10113bcabb33435fa-80e4e46d16ff97ed66391fb024166d79-1738694054-1738683254&remote=no_check_ip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://i.ibb.co/PZKX7wb/cn-logo-khichtv-2025.jpg
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇲🇾
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
-http://nh0zsieuquay.giize.com:9999/rtp/232.84.3.62:11680
+https://p11.magicplaces.eu/disneyjunior/video.m3u8?token=76c605f719e04de1be15fac99433c9fcc6075d52-325adbbd15cac5d2168d8ab0428784b8-1738694726-1738683926&remote=no_check_ip
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇪🇹
-https://stream01.vnet.am/Kinosemya/mono.m3u8
+https://p11.magicplaces.eu/hbohd/video.m3u8?token=f871df734cf61cb30b8c9169cede10667e219f13-d31962f33d98c86eb8e7e42cea55b5cc-1738694872-1738684072&remote=no_check_ip
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/YTHh0L6/khichtivi-logo-Dreamworks-HD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
 https://stream01.vnet.am/Boomerang/mono.m3u8
