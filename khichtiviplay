@@ -633,7 +633,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?khichtv|Referer=http
 #EXTINF: -1 tvg-id = "sctv15hd" group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/kxyWgbR/sctv15-logo-khichtivi.png", SCTV15 FHD 30
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://e5.endpoint.cdn.sctvonline.vn/hls/v34wgeihqtliv.vcdn.cloud/sctv15/master.m3u8?khichtv|Referer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xybpCd/sctv15-logo-khichtivi.png" tvg-id="sctv15hd",SCTV15 FHD
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
