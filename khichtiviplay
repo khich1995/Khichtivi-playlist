@@ -52,7 +52,8 @@ https://bom.so/khichtv-live-vtv9-hd?/index.m3u8?|Referer=http://sctvonline.vn/
 http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/3NQX5SP/VTV11-HD-khich-TV.png", ❤VTV11 HD Vie Dramas
 #EXTVLCOPT:http-user-agent=Dal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36888888?https://d.org.vn/Khichtv-go-vtv11-D-DRAMMAS-HD-m20?_index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36888888
+https://d.org.vn/Khichtv-go-vtv11-D-DRAMMAS-HD-m20?_index.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #khichtivi=video/120.0.0.0
