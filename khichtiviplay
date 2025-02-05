@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://bit.ly/Lịch-phat-song-khichtivi-epg-xml-gz,http://epg.ra1n.lol/jp.xml,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="https://s.id/khichtivi,https://bit.ly/khichtivi,https://xem.li/khichtiviplaylist,https://xem.li/25khichtivi,https://g2.by/ThaoTiVi"
 
-
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé
 
 #UPDATE 04:15:44⏱/01/01/2025 | COPYRIGHT BY Gia HungTVmedia & TV FREE
@@ -240,7 +239,7 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-https://tvpull.careryun.com/tv/cctv14.m3u8
+http://61.163.58.154:1321/ms/IPTV.php?id=158
 #EXTINF:-1 tvg-id="vtc15hd" group-title="khíchTiVi|REALMADRID" tvg-logo="https://i.ibb.co/QMh5t52/Realmadrid-TV.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc15-hd/dvr-${start}-${offset}.m3u8",Realmadrid-TV HD
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
