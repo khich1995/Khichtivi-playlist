@@ -66,7 +66,7 @@ https://s.net.vn/Khichtv-live-VTV13-HD?-2669/playlist.m3u8?khichtv|Referer=http:
 #EXTVLCOPT:http-user-agent=Dalvik/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8
+https://1.org.vn/Khichtv-online-vtv14-HD-index-m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://509942876.r.vtvcdn.com/onplus/HAY_TV/m3012_index.m3u8
