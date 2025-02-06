@@ -143,7 +143,7 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-http://e4.endpoint.cdn.sctvo online.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonline.vn/
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonline.vn/
 
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
