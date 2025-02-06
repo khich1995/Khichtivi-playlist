@@ -554,11 +554,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/i0zj1wvg_vtvcablife_296_168.webp", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/188/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/j8xthfzb_vtvcab23-on-golf-thumb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://509942876.r.vtvcdn.com/onplus/THETHAO_GOLF_HD/m3012_index.m3u8
+https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/08/23/v9atjhmw_vtvcab23.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -691,7 +691,7 @@ https://tth.vn/Khichtv-online8-tvbvn.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/ccS0D2r/Khich-Ti-Vi-BTV5-HD.png", BTV5 HD
-https://tth.vn/vtvcab-zbk-on-btv5.m3u8
+
 
 #-*-Khích📺SCTV Online-VTV-*--#
 
