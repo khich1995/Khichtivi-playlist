@@ -80,7 +80,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/06/02/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/08/02/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://1.org.vn/Khichtv-80-sctv15-fhd-index-m3u8|Referer=http://sctvonline.vn/
@@ -149,25 +149,25 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonl
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1642319258?profile=pass
+http://14.176.78.54:9981/stream/channelid/669616812?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
-http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
+http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://mytv123:mytv11234@hothanhdam.ddns.net:9981/stream/channelid/784521082?profile=pass
+http://14.176.78.54:9981/stream/channelid/1350692597?profile=pass
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
