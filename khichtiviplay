@@ -115,15 +115,16 @@ https://hls.cdn686868.com/live/CAOCAU/playlist.m3u8?wsSecret=305aff46eb0169c738e
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV BD" tvg-logo="https://i.ibb.co/SfRFTrm/b-ng-tr-c-ti-p.png",⚽ Trực tiếp Bóng đá 2 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://hls.cdn686868.com/live/VOKY/playlist.m3u8?wsSecret=b6f34906668c16d7f6f385d56657a7fe&wsTime=1738823687&keeptime=94608000
-#EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV BD" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá3 FHD 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV BD" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 3 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://4gwhnhcjagazdnqbafaauoctppbs8gmudctzdcqbs8y5domudp7so.wslivehls.com/hls.cdn686868.com/live/VOKY/playlist.m3u8?wsSecret=b6f34906668c16d7f6f385d56657a7fe&wsTime=1738823687&keeptime=94608000&wsSession=6d64f56600174d9f6e61c342-173893986013367&wsIPSercert=c5be34ad721093750a329e6816fa09ba&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1738856736-0-0-456ee6bc0152cafd40621ed73f18cfd8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV DB" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá  FHD 
+https://live5.k8v4dh4.app/live/73081701.m3u8?txSecret=d1f874151f4af3cd8a7e56dc9c6be983&txTime=195802D41BF
+#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV DB" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 5  FHD 
+
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://live5.k8v4dh4.app/live/41943555.m3u8?txSecret=30fe8de7f0c10b332ca0224c6657212b&txTime=1950B72BD75
-#EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE FHD 
+#EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" t89vg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE FHD https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
 http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
@@ -139,7 +140,7 @@ http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
 https://7pal.short.gy/nowhkp1
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2 FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 cho 
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
@@ -164,6 +165,8 @@ http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
+5#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
+#EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -1149,7 +1152,7 @@ https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
 http://quangtritv.vn/tv/tvvnpt2024.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/qdKdydK/truyen-hinh-Quang-tri-khichtv.jpg", QRTV HD
 http://quangtritv.vn/tv/tvvnpt2024.m3u8
-#EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tJsvcP3/20231120-khichtv-QTritv.jpg", QRTV SD | TH Quảng Trị SD
+#EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tJsvcP3/20231120-khichtv-QTritv.j http-user-age thểTH Quảng Trị SD
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/0BFDjS6/khichtv-logo-quang-nam.jpg", QRT FHD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
