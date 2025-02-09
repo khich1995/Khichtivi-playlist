@@ -204,7 +204,7 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/m8rrki02_tv-bluee75315eb0043c1655dac0c4a7f24a6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-
+http://183.215.211.219:9998/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/69_ecbdd665.jpg?width=384&version=9&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://61.163.58.154:1321/ms/IPTV.php?id=157
@@ -222,18 +222,18 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 https://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-
+http://113.218.229.47:8081/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/y19zhvhx_vtc-1028537230304be426238d420dbf890d77_296_168.webp", VTC10 FHD
 #EXTVLCOPT:http-user-agent="khichrTV"
-
+http://118.250.111.57:58888/udp/239.76.253.160:9000
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC - KHICHTV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vtc10.png", VTC10 FHD
 http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
+#EXTINF:-1 fileid="vtc11" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
-https://tvpull.careryun.com/tv/cctv11.m3u8
+http://118.250.111.57:58888/udp/239.76.245.251:1234
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://bom.so/khichtv-vtc12-m3u8
@@ -249,7 +249,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=158
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-
+http://114.241.202.175:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="vtc17hd" group-title="KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offset}.m3u8",MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="💙bóng đá⚽| VTC" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
@@ -335,9 +335,9 @@ https://thvip.site/thuanviet/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/giadinh/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 1 HD
-http://cookies.elementfx.com/ublive/ublive.php?id=172
+
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 2 HD
-http://109.61.81.45:43756/713/video.m3u8?token=QUWJEnwmm2
+
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHU NỮ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -745,14 +745,13 @@ https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/01.m3u8
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png",Nhân Dân TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/01.m3u8
+
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
 htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
-#https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://vod-cdn02.danet.vn/live/quocphong/playlist.m3u8
