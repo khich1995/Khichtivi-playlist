@@ -150,7 +150,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonl
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
 http://14.176.78.54:9981/stream/channelid/669616812?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
 http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
@@ -1239,7 +1239,7 @@ https://p11.magicplaces.eu/cinemax2sd/video.m3u8?token=11662a34b8c55ed05c447a5e0
 https://e8.endpoint.cdn.sctvonline.vn/hls/cinemax/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e8.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn/
+http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
