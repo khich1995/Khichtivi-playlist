@@ -80,7 +80,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/11/02/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰05:33:45|📆/12/02/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://1.org.vn/Khichtv-80-sctv15-fhd-index-m3u8|Referer=http://sctvonline.vn/
@@ -723,7 +723,7 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HCATV1 - HiTV HD
 #EXTVLCOPT:http-user-agent=Khichtivi/2.1
-https://ott1.sgchill.io.vn/vstv521/xemden29012025/9900/index.m3u8
+https://1.org.vn/Khichtv-360-32-hitv-mpd
 #http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJBlG4ch49Q9xLveG8cL3Fuja6P3fZuWl2xjRRLVGVQ&s", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -744,7 +744,7 @@ http://113.160.152.31:5050/udp/232.84.1.44:8244
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png",TH Thông Tấn HD
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/01.m3u8
+
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png",Nhân Dân TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 
