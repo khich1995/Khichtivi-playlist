@@ -80,7 +80,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/13/02/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/14/02/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://1.org.vn/Khichtv-80-sctv15-fhd-index-m3u8|Referer=http://sctvonline.vn/
@@ -1401,11 +1401,11 @@ https://263.org.vn/Khích-online-HBO-FAMILY-CHINA-index-m3u8
 #EXTINF:-1 tvg-id="starch3" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
 https://d.org.vn/Khích-online-hbosignature-hd-index-m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳 
-https://streamer1.nexgen.bz/CINEMAX/tracks-v2a1/mono.m3u8
+http://122.117.71.103:8557/http/220.130.87.218:8081/hls/71/813/ch043.m3u8
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳
 https://263.org.vn/Khichtv-online-cinemax-TQ-index-m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/0z3i6qi1_axn_ngang6f7ad337e4ecb9e57fffad9974d05061_296_168.webp", AXN HD 🇨🇳
-https://tth.vn/Khich-TiVi-online-axn-china-index.m3u8
+https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/DM9Bg20/axn-movies-khichtv.png",AXN MOVIES HD 🇨🇳
 http://xxx.v2ssr.xyz/4wVQA7/625159/164818
