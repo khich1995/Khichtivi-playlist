@@ -1334,7 +1334,8 @@ http://iptv.prosto.tv:7000/ch157/video.m3u8
 #EXTINF: -1 tvg-id = "cinemaxhd" group-title = "📦 Khích TiVi|QT AXN" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", AXN👌khíchTV
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳khíchTV|Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg",Paramount HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
+https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
 #-'z-phim ma kinh dj-#
 
 #EXTINF:-1 tvg-id="phutho" group-title="Khích TiVi Quốc Tế" tvg-logo="https://i.ibb.co/0j6VZBz/2023-11-23-khichtv-thrill.png",THRILL HD
@@ -1408,7 +1409,7 @@ https://263.org.vn/Khichtv-online-cinemax-TQ-index-m3u8
 https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/DM9Bg20/axn-movies-khichtv.png",AXN MOVIES HD 🇨🇳
-http://xxx.v2ssr.xyz/4wVQA7/625159/164818
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
 #https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
 http://xxx.v2ssr.xyz/4wVQA7/625159/164815
