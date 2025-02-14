@@ -728,7 +728,8 @@ https://1.org.vn/Khichtv-360-32-hitv-mpd
 #EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJBlG4ch49Q9xLveG8cL3Fuja6P3fZuWl2xjRRLVGVQ&s", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #xem miễn phí 0 Động
-http://113.160.152.31:5050/udp/232.84.1.14:8058
+http://1.55.150.77:2023/udp/225.1.2.86:30120
+#http://113.160.152.31:5050/udp/232.84.1.14:8058
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
