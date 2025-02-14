@@ -1359,7 +1359,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/musicbox/index.m3u8?bykhichtv|Referer=
 #EXTVLCOPT: http-user-agent = KhichTivi
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
-https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8?c
+http://extraott.com/live/6772191932/1654508883/13095.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 http://202.150.172.3:5000/udp/239.1.1.190:9116
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khíchTV
@@ -1412,7 +1412,7 @@ https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 http://50.7.137.106:8080/AMC/index.m3u8?token=test
 #https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
-http://xxx.v2ssr.xyz/4wVQA7/625159/164815
+https://streamer1.nexgen.bz/AXN/index.m3u8
 #https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇨🇳
 https://263.org.vn/Khichtv-mytv-warnertvhd-index-m3u8
