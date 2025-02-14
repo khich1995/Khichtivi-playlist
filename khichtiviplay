@@ -152,7 +152,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonl
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
-http://1.55.150.77:2023/rtp/232.84.3.243:11380
+http://1.55.150.77:2023//udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
 http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
