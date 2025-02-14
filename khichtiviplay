@@ -1922,13 +1922,13 @@ https://edge2a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|laotv" tvg-logo="https://cms.dmpcdn.com/sportarticle/2015/11/19/b386a49f-cadf-4530-a8d6-2cd8b3bb9d20.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", true4u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-#------Thể thao tổng hợp------#
+#------CCTV------#
 #EXTINF:-1 group-title="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://182.119.23.35:23456/rtp/225.1.4.1:1030
+http://182.119.23.35:23456/rtp/225.1.4.73:1102
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://182.119.23.35:23456/rtp/225.1.4.1:1030
+http://182.119.23.35:23456/rtp/225.1.4.74:1103
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://182.119.23.35:23456/rtp/225.1.4.158:1194
