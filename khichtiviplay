@@ -136,7 +136,7 @@ http://14.176.78.54:9981/stream/channelid/1893619712?profile=pass
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
 http://14.176.78.54:9981/stream/channelid/1356802520?profile=pass
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/WpHgVMR/khichtv-ksp1-vip.jpg", K+SPORT1 VIP FHD
-http://14.176.78.54:9981/stream/channelid/669616812?profile=pass
+https://263.org.vn/Khichtv-80-sports1
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/ZSZmfFK/khichtv-ksp2-vip.jpg", K+SPORT2 VIP FHD
 http://14.176.78.54:9981/stream/channelid/1914859903?profile=pass
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
