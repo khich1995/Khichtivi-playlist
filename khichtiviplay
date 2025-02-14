@@ -1925,27 +1925,27 @@ https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #------Thể thao tổng hợp------#
 #EXTINF:-1 group-title="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=15654890039634427536
+http://111.29.9.33:6410/200000001898/460000089800010211/1.m3u8?
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=15654890039634427536
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://39.134.136.161:6610/000000001000/5000000004000008883/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008883
+http://182.119.23.35:23456/rtp/225.1.4.158:1194
 #EXTINF:-1 group-title="kênh CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png",CCTV4 FHD
-https://tv.TruyenHinh.Click/TrungQuoc/cctv4/TruyenHinh.Click
+http://182.119.23.35:23456/rtp/225.1.5.30:1333
 #EXTINF:-1 group-title="kênh CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5 FHD
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
+http://182.119.23.35:23456/rtp/225.1.4.159:1195
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV6」",CCTV5+ FHD
-http://39.134.136.161:6610/000000001000/1000000001000020505/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT2135620250106050527132308&channel-id=ystenlive&Contentid=1000000001000020505
+https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
 #EXTINF:-1 group-title="kênh CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png",CCTV6 FHD
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=15654890039634427536
+http://182.119.23.35:23456/rtp/225.1.4.160:1196
 #EXTINF:-1 group-title="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png",CCTV7 FHD
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=15654890039634427536
+http://182.119.23.35:23456/rtp/225.1.4.76:1105
 #EXTINF:-1 group-title="cctv8hd" tvg-logo="https://epg.iill.top/logo/CCTV8.png",CCTV8 FHD
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15654890039634427536
+http://182.119.23.35:23456/rtp/225.1.4.161:1197
 #EXTINF:-1 group-title="CCTV9" tvg-lorrrrgo="https://epg.iill.top/logo/CCTV9.png",CCTV9 FHD
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=15654890039634427536
+http://182.119.23.35:23456/rtp/225.1.4.77:1106
 
 #'--'phim HAY'^-'*#
 
