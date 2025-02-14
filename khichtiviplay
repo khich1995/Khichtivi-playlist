@@ -1925,10 +1925,10 @@ https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #------Thể thao tổng hợp------#
 #EXTINF:-1 group-title="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://111.29.9.33:6410/200000001898/460000089800010211/1.m3u8?
+http://182.119.23.35:23456/rtp/225.1.4.1:1030
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=15654890039634427536
+http://182.119.23.35:23456/rtp/225.1.4.1:1030
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://182.119.23.35:23456/rtp/225.1.4.158:1194
