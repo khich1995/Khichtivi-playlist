@@ -645,7 +645,7 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http:
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://1.org.vn/Khichtv-80-sctv15-fhd-index-m3u8
+https://263.org.vn/Khichtv-80-sctv15-fhd-mpd
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/7btSjNJ/SCTV16-PNNDS-logo-khichtivi.webp", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
