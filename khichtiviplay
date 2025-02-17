@@ -157,19 +157,20 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonl
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
-http://1.55.150.77:2023/udp/225.1.2.249:30120
+https://xemcaigi.thatvidieu.site/ksport1hd_1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
-http://1.55.150.77:2023/udp/225.1.2.225:30120
+https://xemcaigi.thatvidieu.site/ksport1hd_2/index.m3u8
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://1.55.150.77:2023/udp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
+https://xemcaigi.thatvidieu.site/kcinehd1/index.m3u8
+#https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://1.55.150.77:2023/udp/225.1.1.139:30120
+https://xemcaigi.thatvidieu.site/kactionhd_1/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://1.55.150.77:2023/udp/225.1.1.142:30120
@@ -178,7 +179,7 @@ http://1.55.150.77:2023/udp/225.1.1.142:30120
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://1.55.150.77:2023/udp/225.1.2.231:30120
+https://xemcaigi.thatvidieu.site/kkidshd1/index.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
