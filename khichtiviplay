@@ -699,7 +699,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?khichtv|Ref
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="xem TVB" tvg-logo="https://i.ibb.co/2YQV1Lf/tv-BVN-khichtivi.jpg", TVB Việt Nam
 #EXTVLCOPT:http-user-agent=khichivi
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WllhQkxIUTgwUUNGRU9xcDN6WUZ3cUpqUU1YYTNhQzd3OFE1NFJrd1pSSkE9PQ==/khichtv/khichtv/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WllhQkxIUTgwUUNGRU9xcDN6WUZ3cUpqUU1YYTNhQzd3OFE1NFJrd1pSSkE9PQ==/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
