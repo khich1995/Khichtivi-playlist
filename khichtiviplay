@@ -806,11 +806,11 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:0 tvg-id="vtv5tn"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp",TÂY nguyên HD vieon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/taynguyen/index.m3u8
+https://tbtv.us/vtv/5tn/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",TÂY NAM BỘ HD vieon
 #EXTVLCOPT:khichtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/taynambo/index.m3u8
+https://tbtv.us/vtv/5tnb/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.baodantoc.vn/uploads/2021/3/7/root41/66.jpg",Đồng Bào Đó HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://thvip.site/vtv5/index.m3u8|Referer=http://sctvonline.vn/
