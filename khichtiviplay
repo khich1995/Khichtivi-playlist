@@ -772,7 +772,7 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.ibb.co/1nX3zfC/An-ninhtv-khichtv.jpg",AN NNH HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qk7hd" group-title="| Quân khu7" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg",Quân Khu7 HD
-https://baoquankhu7.vn/fileman/Uploads/tbVideo_BaoQK7/849/ChuongtrinhQK7Onlinengay10-10-2023.mp4 
+#https://baoquankhu7.vn/fileman/Uploads/tbVideo_BaoQK7/849/ChuongtrinhQK7Onlinengay10-10-2023.mp4 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
  
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
@@ -791,11 +791,10 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF: -1 tvg-id = "angiang" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kmn935sw_an_giang.png",An Giang HD
 #EXTVLCOPT: http-user-agent = khíchTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://d.org.vn/Khich-TiVi-online-an-giangtv-index-m3u8
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WlVMbWtpa09uMHdUaExuZloxQ3FSdz09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "angiang" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/a9/An_Giang.png",An Giang
 #EXTVLCOPT: http-user-agent = khíchTivi
-https://live.fptplay53.net/
-/angiang_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/1sgvDV5/tay-nam-bo-logo-khichtivi.jpg",TÂY NAM BỘ HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user- agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
@@ -952,7 +951,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/dongnai3/index.m3u8
+https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳khich TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png",Đồng Nai 3 Max HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
