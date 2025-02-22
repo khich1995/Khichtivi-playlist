@@ -166,12 +166,12 @@ http://bentre5.hoangai.vn:8086/stream/Nkd2WVZ5ZUcxb0JmSUxsbzJlb2UzZz09/MHpyQzBRZ
 http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/RGhibkEwQllDcHFXUXdHSTExTmtGbkhVTStCRHFYYTMvSEZrZ0RPYWszVT0=/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xemcaigi.thatvidieu.site/kcinehd1/index.m3u8
+https://live2.w677i02vb1.app/live/37130641.m3u8?khichtv 
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://live2.w677i02vb1.app/live/13089167.m3u8?txSecret=khichtv
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/TXVoUjA0R2F5T3IwcjRCeUZOdGhreVZOMk1Ma3ZTZUpPTm5YUkNacUtwUT0=/khichtv/fhwuw@4216/playlist.mpegts
