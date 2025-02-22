@@ -378,10 +378,10 @@ https://thvip.site/htvcplus/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="spotvhd FPT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNJuoEhY0tRrMU8wcsu-oOBhmEhRWFT7RwjO-Q0XaMw&s" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",spotv1
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="spotv2hd"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2czfn2fkp9rzA0YXI3lZXslKUt9c3GjNvAiGIT6L&s" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",spot2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1 tvg-id="spotvhd FPT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNJuoEhY0tRrMU8wcsu-oOBhmEhRWFT7RwjO-Q0XaMw&s" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV1
+http://extraott.com/live/6772191932/1654508883/13132.m3u8
+#EXTINF:-1 tvg-id="spotv2hd"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2czfn2fkp9rzA0YXI3lZXslKUt9c3GjNvAiGIT6L&s" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV2
+http://extraott.com/live/6772191932/1654508883/13131.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1566,7 +1566,7 @@ https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
 http://extraott.com/live/6772191932/1654508883/153736.m3u8
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/MSWWmRP/khich-online-logo-WWE.jpg" group-title="Quốc Tế",WWE Dự phòng 2
-http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5f12cbe09bca3788cf041616bff437ac
+http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/tstdsB8/khichtivi-wwe.jpg" group-title="Quốc Tế",WWE Dự phòng 3
 http://7044722.lbss27.xyz/live/6772191932/1654508883/153736.m3u8?token=dHljenVlUnBKZ2xtOE85
 #EXTINF:-1 tvg-id="🇺🇲Free Online-Plex" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcc877603-18a8-4c48-a80e-2d8bdff0a12b%2FTNAWrestling_Plex_TalentLogo_3840x2160_-_Alex_Tushingham.jpg" group-title="Quốc Tế",TNA
@@ -1673,7 +1673,7 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="💫| movie fone" tvg-logo="https://i.imgur.com/NxbbQCP.png", movie|fone|mihtv
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="⚗KhichTivi| Khoa học" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_640_360.png", HGTV HD
-#EXTVLCOPT:http-user-agent=khichTivi
+#EXTVLCOPT:http-user-agent=khichTivi 99
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg", Love Nature 4K sv1
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
