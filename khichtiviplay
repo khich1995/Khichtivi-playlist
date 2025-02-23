@@ -1181,7 +1181,7 @@ https://bom.so/khichtv-live-QN3-fhd?key/index.m3u8
 #EXTINF: -1 tvg-id = "thainguyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/78i2i4aw_thainguyen_296_168.webp", TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡|Khích TiVi TN2" tvg-logo="https://i.ibb.co/XyXNKxW/TN2-HD-logo-2017.png", Thái Nguyên 1
-https://ott3.nethubtv.vn/live/thainguyentv/playlist.m3u8
+http://106.41.70.243:8888/rtp/239.37.0.167:5540
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 https://stream1.freetv.fun/thanh-hoa-1.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
