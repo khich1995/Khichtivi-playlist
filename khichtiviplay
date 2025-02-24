@@ -1782,15 +1782,15 @@ http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WnlFZE5uV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://50.7.137.106:8080/AXN/index.m3u8?token=test
-#EXTINF:-1 tvg-id="blueantent" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/228.png", Rock Entertainment
+#EXTINF:-1 tvg-id="blueantent" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/FbZPsc7k/Q-music-logo-khichtv.png", QMUSIC
 #EXTVLCOPT:http-user-agent=KhichTivi
-
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/229.png", Rock Extreme
 #EXTVLCOPT:http-user-agent=khichivi
 
-#EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8olm4z5NtA5-qPzXwBkj7kGOooCznTeoQfjvFDyWuA&s", Discovery Channel
+#EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8olm4z5NtA5-qPzXwBkj7kGOooCznTeoQfjvFDyWuA&s", MTV
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://edge02.odtv.az/o5/discovery/q_0/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 group-title="🎶| Âm nhạc" tvg-logo="http://tvset.sbs/img/da-vinci-learning.png",Da Vinci HD
 https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/dbsXj9z/fashiontv-logo-blue-vertical-1.png", Fashion TV HD
