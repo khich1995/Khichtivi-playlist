@@ -81,7 +81,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/4/03/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/5/03/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://1.org.vn/Khichtv-08-sctv15-fhd-m3u8|Referer=http://sctvonline.vn/
@@ -1440,7 +1440,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #--''--Rock Extreme--''--*
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/ZdQJD65/Rock-Entertainment-p-500.png",Rock Extreme
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1COPT:http-user-agent=Dalvik/2.1.0
 http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
 
 #×'c×=%Quốc Tế kix-":-#
@@ -1791,6 +1791,9 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8olm4z5NtA5-qPzXwBkj7kGOooCznTeoQfjvFDyWuA&s", MTV
 #EXTVLCOPT:http-user-agent=KhichTivi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://i.ibb.co/LhcDDhn2/MTVN-HD-LIVE-khichtivi-logo.png", MTV LVIE
+#EXTVLCOPT:http-user-agent=KhichTivi
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="🎶| Âm nhạc" tvg-logo="http://tvset.sbs/img/da-vinci-learning.png",Da Vinci HD
 https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/dbsXj9z/fashiontv-logo-blue-vertical-1.png", Fashion TV HD
