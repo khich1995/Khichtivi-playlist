@@ -1606,9 +1606,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedb
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/k9DfMC4/Khich-Ti-Vi-live-pops-anime.png",Pops Anime HD 🇻🇳
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Nickjr🇻🇳
-https://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
-https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="onepnchahd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lalradorhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/b323dJx/Khich-Ti-Vi-lalrador-vn.png",LALRADOR HD 🇻🇳
