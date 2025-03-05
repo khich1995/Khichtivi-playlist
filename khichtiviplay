@@ -70,7 +70,7 @@ https://s.net.vn/Khichtv-live-VTV13-HD?-2669/playlist.m3u8?khichtv|Referer=http:
 https://263.org.vn/Khichtv-80-vtv14-EC?key/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://1.org.vn/Khichtivi-live-80-vtv15-fhd-index-m3u8
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0ZZbnFlOEQvN04xZDRkd29DVXFvd3k0bk5abHZoR3czck8vMlBOLzNBRnlkODUxZzhudUtTOTl5UGRTWkZhNTl6eVpKWkxzRmhzMFdsQTFDUHIxdVRRPT0=/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣5️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://263.org.vn/Khichtv-vip-mien-phi-2025
@@ -649,7 +649,8 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?khichtv|Referer=http
 #EXTINF: -1 tvg-id = "sctv15hd" group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/kxyWgbR/sctv15-logo-khichtivi.png", SCTV15 FHD 30
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://bentre5.hoangai.vn:8086/stream/d3BtaVRBNnZSVFlpQVQ4RUNSUXlZZz09/bmZ5SUlGdCtGbU0xSG0zbFM0bGpXdz09/khichtv/fhwuw@4216/playlist.mpegts
+#http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xybpCd/sctv15-logo-khichtivi.png" tvg-id="sctv15hd",SCTV15 FHD
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -663,7 +664,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?khichtv|Referer=
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:hgttp-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://bentre5.hoangai.vn:8086/stream/d3BtaVRBNnZSVFlpQVQ4RUNSUXlZZz09/Rk1icjl6WDhzRmFzeFdzTUF3anhJZz09/khichtv/fhwuw@4216/playlist.mpegts
+#http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mb0WpzV/SCTV17-SSport-logo-khichtv.webp", SCTV17 HD Vip
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://1.org.vn/Khichtv-80-sctv17-fhd-index-mpd
@@ -687,7 +689,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https:/
 #EXTINF: -1 tvg-id = "sctv22hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/52j4ZTb/SCTV22-logo-2024-khichtv.webp", SCTV22 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://bentre5.hoangai.vn:8086/stream/d3BtaVRBNnZSVFlpQVQ4RUNSUXlZZz09/S3RoWEtjV2RPZE4vWnhxOVp1M0JFdz09/khichtv/fhwuw@4216/playlist.mpegts
+#http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 https://263.org.vn/Khichtv-80-sctv22-fhd-mpd
