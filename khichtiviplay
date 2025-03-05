@@ -648,9 +648,8 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?khichtv|Referer=http
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv15hd" group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/kxyWgbR/sctv15-logo-khichtivi.png", SCTV15 FHD 30
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/dno5Uk4vTS9SanZYQW81bVpML3B5U1VnMjJiUllZa0lBQzNNK09wUC96ND0=/khichtv/fhwuw@4216/playlist.mpegts
-#http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xybpCd/sctv15-logo-khichtivi.png" tvg-id="sctv15hd",SCTV15 FHD
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
