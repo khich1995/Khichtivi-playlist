@@ -842,7 +842,7 @@ https://cmcdp.vtvdigital.vn/live/camautv/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivihttps://ott1.sgchill.io.vn/vstv521/xemden29012025/40/index.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/odg53y2f_binh_dinh.png",Bình Định
 #EXTVLCOPT: http-user-agent = KhichTivi
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "binhduong1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.png",Bình Dương 1 HD
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
@@ -902,7 +902,7 @@ https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8|Referer=https://sctvonline.vn/
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/binhdinh/index.m3u8
+https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1035,7 +1035,7 @@ https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
 #EXTINF: -1 tvg-id = "haiphong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/m83wrLb/hai-phong-khichtv.jpg", THP HD | TH Hải Phòng HD
 #EXTVLCOPT:khichtivi=60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "haiphongplus" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/Cz3s9my/hai-phong-khichtv-146.jpg", THP + HD | TH Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
@@ -1071,11 +1071,10 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.ktv.org.vn/ktv.m3u8
+https://live.fptplay53.net/fnxsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "khanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://img.hplus.com.vn/226x127/poster/2018/06/05/873693-Khanh-Hoa.png", KTV  | TH Khánh Hòa
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
 https://cmcdp.vtvdigital.vn/live/kiengiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kiengiang1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kgtv.vn/wp-content/uploads/2021/11/kg1. png", KG1 HD | TH Kiên Gia
 #EXTVLCOPT: http-user-agent = KhichTivi
