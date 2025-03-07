@@ -1078,7 +1078,7 @@ https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8https
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-use⁸r-agent=Dalvik/2.1.0
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kgtv.vn/wp-content/uploads/2021/11/01_Thumnail-Online_6dafe8689ab951045873d274141fbb4c.png", KG1 HD | TH Kiên Giang
-https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_1.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.imgur.com/Cbr0rSN.png", KG2 HD | TH Kiên Giang
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
