@@ -1071,7 +1071,7 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net//epzsd1/khanhhoa_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "khanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://img.hplus.com.vn/226x127/poster/2018/06/05/873693-Khanh-Hoa.png", KTV  | TH Khánh Hòa
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8https://kgtv.vn/wp-content/uploads/2021/11/01_Thumnail-Online_6dafe8689ab951045873d274141fbb4c.png. png", KG1 HD | TH Kiên Gia
