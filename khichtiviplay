@@ -1031,7 +1031,7 @@ https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:khichtivi=59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/59/index.m3u8
+https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
 #EXTINF: -1 tvg-id = "haiphong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/m83wrLb/hai-phong-khichtv.jpg", THP HD | TH Hải Phòng HD
 #EXTVLCOPT:khichtivi=60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
