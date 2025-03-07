@@ -983,7 +983,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=55
+https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="khichtivi" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
@@ -1057,7 +1057,7 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
-#EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang HD
+#EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/BH9NkSrX/THTG-HD-logo-khichtivi.png", Tien Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
