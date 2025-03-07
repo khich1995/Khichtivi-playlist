@@ -910,7 +910,7 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:502/stream?url=https://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
@@ -937,7 +937,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kontumtv.vn/wp-content/themes/kontum/imgs/logo.png", KON TUM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://bentre5.hoangai.vn:502/stream?url=https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/Q8KDg3Q/c9d0dd11d418-640-360.png", KON TUM FHD
 https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2021/11/15/z4bse9hi_dien_bien.png",Điện Biên SD
@@ -1074,7 +1074,7 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 https://live.fptplay53.net//epzsd1/khanhhoa_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "khanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://img.hplus.com.vn/226x127/poster/2018/06/05/873693-Khanh-Hoa.png", KTV  | TH Khánh Hòa
 #EXTVLCOPT: http-user-agent = KhichTivi
-http://bentre5.hoangai.vn:502/stream?url=ttps://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kgtv.vn/wp-content/uploads/2021/11/01_Thumnail-Online_6dafe8689ab951045873d274141fbb4c.png", KG1 HD | TH Kiên Giang
 http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/khanhhoatv/chunklist_1.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.imgur.com/Cbr0rSN.png", KG2 HD | TH Kiên Giang
