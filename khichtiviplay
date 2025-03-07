@@ -1026,7 +1026,7 @@ https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF: -1 tvg-id = "haiduong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/h7y9GXk/hai-duong-khichtv.jpg", THD HD | TH hải dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5vr2/khichTV/hai-duong-hd.m3u8
+https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.ibb.co/19x8KjC/144.png",Hải Dương HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:khichtivi=59
@@ -1048,7 +1048,7 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 #EXTINF: -1 tvg-id = "haugiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.png",Hậu Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi=61
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/61/index.m3u8
+https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "haugiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.png",Hậu Giang SD 
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1153,7 +1153,7 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF: -1 tvg-id = "phutho" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/NS3HKWY/khichtv-logo-PTV-HD.png", PTV HD | TH Phú Thọ
-
+https://cmcdp.vtvdigital.vn/live/phuthotv/chunklist_0.m3u8
 #EXTINF: -1 tvg-id = "phuyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/1Q8wzmV/khichtv-logo-phu-yen.jpg", PTP HD sv1 | TH Phú Yên
 #EXTVLCOPT: http-user-agent khíchTivi
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
