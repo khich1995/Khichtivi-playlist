@@ -910,7 +910,7 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
@@ -944,7 +944,7 @@ https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://media-cdn-v2.laodong.vn/laodong/1.0.3.32/images/logo/ldo_red.png",Lao động HD
-
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/dienbientv/chunklist_1.m3u8
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://tvphapluat.vn/default/asset/img/z2566027766471_e1b5693123aeb3c83322c53cb85e1123-preview.png",Phát Luật TV HD
 
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/v173295f_dong_nai_1.png",Đồng Nai 1 HD
@@ -1048,7 +1048,7 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 #EXTINF: -1 tvg-id = "haugiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.png",Hậu Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi=61
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "haugiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.png",Hậu Giang SD 
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
