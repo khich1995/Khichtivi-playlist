@@ -1053,10 +1053,14 @@ https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
-#EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang HD
+#EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang HD
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "hoabinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/24/6qzjh78z_hoabinh_296_168.png", HBTV HD| TH Hòa Bình
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1077,7 +1081,7 @@ https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-use⁸r-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/kiengiang/TuyetDoiKhongKinhDoanh
+https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.imgur.com/Cbr0rSN.png", KG2 HD | TH Kiên Giang
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
