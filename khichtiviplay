@@ -1191,7 +1191,7 @@ https://bom.so/khichtv-live-QN3-fhd?key/index.m3u8
 #EXTINF: -1 tvg-id = "thainguyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/78i2i4aw_thainguyen_296_168.webp", TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡|Khích TiVi TN2" tvg-logo="https://i.ibb.co/XyXNKxW/TN2-HD-logo-2017.png", Thái Nguyên 1
-http://106.41.70.243:8888/rtp/232.84.1.220:9294
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/thainguyentv/playlist.m3u8&ua=Moliza
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD SV1 | TH Thanh Hóa
 https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6de1e946b5c728def3bea105423a130b69150b09e9dd722110e26ec47c33ea43dc5d6ce57d00939827dd79c04a821142394211b9471892ca6b2c8a22b4fe6376e3067448b5abbfea6da0f983ffd9843f2c3e08793b19bf7539ed46cb3d87d4556e24331116395a5e3cddd05f3c470eb9b0a460b6ab0b2100d6706227ee8adf39fa8b6ccc9a10f898fb2aef2b68ede41ec34442b14481a3427bb0b7fe1d96437cb9/mobile.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
@@ -1204,7 +1204,7 @@ https://ott3.nethubtv.vn/live/thanhhoatv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/channel/tuyenquang_1080p/chunks.m3u8
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD | TH Tuyên Quang sv2
-http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/thanhhoatv/playlist.m3u8&ua=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8&ua=Moliza
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/HtJpyxw/trt1-hd-khichtv.png", TRT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
