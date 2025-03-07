@@ -1196,7 +1196,7 @@ http://106.41.70.243:8888/rtp/232.84.1.220:9294
 https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6de1e946b5c728def3bea105423a130b69150b09e9dd722110e26ec47c33ea43dc5d6ce57d00939827dd79c04a821142394211b9471892ca6b2c8a22b4fe6376e3067448b5abbfea6da0f983ffd9843f2c3e08793b19bf7539ed46cb3d87d4556e24331116395a5e3cddd05f3c470eb9b0a460b6ab0b2100d6706227ee8adf39fa8b6ccc9a10f898fb2aef2b68ede41ec34442b14481a3427bb0b7fe1d96437cb9/mobile.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa khích TV live
-https://vips-livecdn.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8333
+https://vips-livecdn.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV SD | TH Thanh Hóa
 https://ott3.nethubtv.vn/live/thanhhoatv/playlist.m3u8
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD | TH Tuyên Quang
