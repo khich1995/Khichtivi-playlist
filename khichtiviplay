@@ -777,7 +777,7 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.ibb.co/1nX3zfC/An-ninhtv-khichtv.jpg",AN NNH HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qk7hd" group-title="| Quân khu7" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg",Quân Khu7 HD
-#https://baoquankhu7.vn/fileman/Uploads/tbVideo_BaoQK7/849/ChuongtrinhQK7Onlinengay10-10-2023.mp4 
+ 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
  
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
@@ -944,9 +944,9 @@ https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://media-cdn-v2.laodong.vn/laodong/1.0.3.32/images/logo/ldo_red.png",Lao động HD
-https://media-cdn-v2.laodong.vn/storage/newsportal/2024/5/14/1339939/videos/THOI-SU-NGAY-1405-01.mp4
+
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://tvphapluat.vn/default/asset/img/z2566027766471_e1b5693123aeb3c83322c53cb85e1123-preview.png",Phát Luật TV HD
-https://server119.tvphapluat.com/s1/2024/THANG5/15/tinnong155.mp4
+
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/v173295f_dong_nai_1.png",Đồng Nai 1 HD
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zpy96yn8_dong_nai_2.png",Đồng Nai 2 HD
@@ -956,11 +956,11 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/dongnai3/index.m3u8
+
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳khich TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png",Đồng Nai 3 Max HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/khichtv-tvmovie-max-index.m3u8
+
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳khich TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ijdemqaa_dongthap1.png",Đồng Tháp 1 HD
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -980,7 +980,7 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://tv.gialaitv.vn/tv.m3u8
+https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
@@ -1035,7 +1035,7 @@ https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
 #EXTINF: -1 tvg-id = "haiphong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/m83wrLb/hai-phong-khichtv.jpg", THP HD | TH Hải Phòng HD
 #EXTVLCOPT:khichtivi=60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv521/60/index.m3u8
+
 #EXTINF: -1 tvg-id = "haiphongplus" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/Cz3s9my/hai-phong-khichtv-146.jpg", THP + HD | TH Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
@@ -1075,12 +1075,11 @@ https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF: -1 tvg-id = "khanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://img.hplus.com.vn/226x127/poster/2018/06/05/873693-Khanh-Hoa.png", KTV  | TH Khánh Hòa
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
+
+https://cmcdp.vtvdigital.vn/live/kiengiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kiengiang1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kgtv.vn/wp-content/uploads/2021/11/kg1. png", KG1 HD | TH Kiên Gia
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-use⁸r-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.imgur.com/Cbr0rSN.png", KG2 HD | TH Kiên Giang
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1151,7 +1150,7 @@ https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "tayninh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/D9m7M1K/Tay-ninh-11-khichtv.png", TTV11 HD | TH tây ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott1.sgchill.io.vn/backend/xemtvtructuyen/source/vstv522/tayninh/index.m3u8
+https://cmcdp.vtvdigital.vn/live/tayninhtv/chunklist_1.m3u8
 #EXTINF: -1 tvg-id = "thaibinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/1vzivocp_thaibinh_296_168.webp", TBTV HD | TH Thái Bình
 https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
