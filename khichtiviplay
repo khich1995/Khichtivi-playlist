@@ -1060,7 +1060,7 @@ http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/BH9NkSrX/THTG-HD-logo-khichtivi.png", Tien Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
+https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "hoabinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/24/6qzjh78z_hoabinh_296_168.png", HBTV HD| TH Hòa Bình
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1074,12 +1074,11 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 https://live.fptplay53.net/fnxsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "khanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://img.hplus.com.vn/226x127/poster/2018/06/05/873693-Khanh-Hoa.png", KTV  | TH Khánh Hòa
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
-https://cmcdp.vtvdigital.vn/live/kiengiangtv/playlist.m3u8
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "kiengiang1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kgtv.vn/wp-content/uploads/2021/11/kg1. png", KG1 HD | TH Kiên Gia
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-use⁸r-agent=Dalvik/2.1.0
-https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
+https://live.fptplay53.net/ epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "kiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.imgur.com/Cbr0rSN.png", KG2 HD | TH Kiên Giang
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1137,7 +1136,7 @@ https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "soctrang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", STV1 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFe4-VVQjrjQWMu1-s6yzXlsbnIXtzb0gGOg&s", STV2 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
