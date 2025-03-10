@@ -962,7 +962,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://263.org.vn/Khichtv-80-dong-nai-3-HD-mpd
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳khich TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png",Đồng Nai 3 Max HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
