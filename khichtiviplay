@@ -852,8 +852,8 @@ http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/camaut
 http://bentre5.hoangai.vn:502/stream?url=http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định FHD
 #EXTVLCOPT:http-user-agent=Moliza
-#EXTINF: -1 tvg-id = "binhduong1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.webp",Bình Dương 1 HD
 https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id = "binhduong1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.webp",Bình Dương 1 HD
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "binhduong2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.png",Bình Dương 2 HD
 #EXTVLCOPT: http-user-agent = khichTivi
@@ -925,7 +925,7 @@ https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Moliza
 http://bentre5.hoangai.vn:502/stream?url=https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
