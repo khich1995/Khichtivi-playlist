@@ -933,14 +933,20 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8
 #EXTINF: -1 tvg-id = "danang2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2vo0dv8a_da_nang_2.png",Đà Nẵng 2
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/playlist.m3u8
-#EXTINF: -1 tvg-id = "daklak" group-title = "🇻🇳 Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp",ĐĂK  LĂK
-#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTINF: -1 tvg-id = "daklak" group-title = "🇻🇳 Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp",ĐĂK  LĂK FHD
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF: -1 tvg-id = "daknong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png",ĐĂK NÔNG HD
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTINF: -1 tvg-id = "daklak" group-title = "🇻🇳 Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp",ĐĂK  LĂK HD
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/daklaktv/playlist.m3u8
+#EXTINF: -1 tvg-id = "daknong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png",ĐĂK NÔNG FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF: -1 tvg-id = "daknong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png",ĐĂK NÔNG HD
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kontumtv.vn/wp-content/themes/kontum/imgs/logo.png", KON TUM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://bentre5.hoangai.vn:502/stream?url=https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8&ua=Moliza
