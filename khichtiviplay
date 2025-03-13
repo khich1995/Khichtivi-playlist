@@ -1090,14 +1090,14 @@ http://bentre5.hoangai.vn:502/stream?url=https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/s9kGBfw/khichtv-logo-KRT-HD.jpg", KRT HD | TH Kon Tum
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxsd1/kontum_hls.smil/chunklist_b1800000.m3u8
+https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "laichau" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRH40L5k4ze4bBP9bGv-2-qbhocedNG4PUZLgSwvOI&s", LTV HD | TH Lai Châu
 #EXTVLCOPT:http-user-agent=khichtivi
 #XTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF: -1 tvg-id = "lamdong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.png", LTV HD | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF: -1 tvg-id = "lamdong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.png", LTV FHD | TH Lâm Đồng
+#EXTINF: -1 tvg-id ="lamdong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.png", LTV FHD | TH Lâm Đồng
 http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/lamdongtv/playlist.m3u8&ua=Moliza
 #EXTINF: -1 tvg-id = "langson" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/kgun67b5_lang-son_296_168.png", LSTV FHD | TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
