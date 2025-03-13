@@ -943,7 +943,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kontumtv.vn/wp-content/themes/kontum/imgs/logo.png", KON TUM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8&ua=Moliza
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/Q8KDg3Q/c9d0dd11d418-640-360.png", KON TUM FHD
 https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2021/11/15/z4bse9hi_dien_bien.png",Điện Biên SD
