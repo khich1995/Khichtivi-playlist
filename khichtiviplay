@@ -985,12 +985,13 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI HD
-#EXTVLCOPT: http-user-agent = KhichTivi
-https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
+#EXTVLCOPT: http-user-agent=KhichTivi
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Moliza/5.0.2
-https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="khichtivi" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
