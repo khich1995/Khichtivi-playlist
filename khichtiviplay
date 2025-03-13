@@ -848,6 +848,7 @@ http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/camaut
 #EXTVLCOPT: http-user-agent = KhichTivihttps://ott1.sgchill.io.vn/vstv521/xemden29012025/40/index.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/odg53y2f_binh_dinh.png",Bình Định
 #EXTVLCOPT: http-user-agent = KhichTivi
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "binhduong1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.png",Bình Dương 1 HD
 #EXTVLCOPT: http-user-agent = khichTivi
@@ -905,7 +906,8 @@ https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8|Referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
