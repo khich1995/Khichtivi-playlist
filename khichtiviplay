@@ -81,7 +81,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/13/03/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/14/03/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://1.org.vn/Khichtv-08-sctv15-fhd-m3u8|Referer=http://sctvonline.vn/
@@ -1058,7 +1058,9 @@ http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/haugia
 #EXTINF: -1 tvg-id = "haugiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.png",Hậu Giang SD 
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Moliza/502
+https://hgtvdigital.vn/hls/backup.m3u8
+#https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
