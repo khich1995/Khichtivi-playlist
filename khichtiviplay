@@ -452,7 +452,7 @@ http://s4live.tv1asia.com:21585/vtvcab2/tracks-v1a1/mono.m3u8
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="VTVCab" ,ON SPORTS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://1.org.vn/Khich-TiVi-online-vtvcab3-index-m3u8
+https://1.org.vn/Khichtv80-vtvcab3HD-LIVE
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/sCPbVn5/On-Sports-vbktv.jpg" group-title="VTVCab" ,ON SPORTS HD 
 http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/NkkwcklDRGRjNisyN1pldVdWaTQwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/sty4e4sg_vtvcab44114b17a056da5e07f7d8913b5639105_296_168.webp" ,ON MOVIES
@@ -468,7 +468,7 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/wtvyhnuq_vtvcab6-on-sports-thumbfc228c44db49351f512be995a0770c3b_296_168.webp",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://d.org.vn/Khichtv-on-live-cab6-mpd
+https://1.org.vn/Khichtv80-vtvcab6HD-LIVE
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/E3Tnlkk.jpg",ON SPORTS + online
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
