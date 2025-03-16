@@ -878,19 +878,24 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚Khích TiVi|KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/P66BsJx/Binh-duong-5-khichtivi.png",Bình Dương 5 HD
 #EXTVLCOPT:http-user-agent=KhíchTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://509942876.r.vtvcdn.com/onplus/HAY_TV/m3012_index.m3u8
+
 #EXTINF: -1 tvg-id = "binhduong6" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/pzr6bcmt_binhduong6.png",Bình Dương 6 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id = "binhduong6" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://apigw.mytv.vn/api/v1/channel/static/channel/479.png?ver=6",Bình Dương 9 HD
+#EXTINF: -1 tvg-id = "binhduong9" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://apigw.mytv.vn/api/v1/channel/static/channel/479.png?ver=6",Bình Dương 9 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://byvn.net/Khichtiviget80-BTV9-HD-mpd
 #EXTINF: -1 tvg-id = "binhduong11" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mov5ar52_binh_duong_11.png",Bình Dương 11
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
