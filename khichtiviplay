@@ -714,7 +714,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WllhQkxIUTgwUUNGRU9xcDN6WUZ3cUpqUU1YYTNhQzd3OFE1NFJrd1pSSkE9PQ==/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
+http://extraott.com/live/6772191932/1654508883/153695.m3u8
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/ccS0D2r/Khich-Ti-Vi-BTV5-HD.png", BTV5 HD
 
 
