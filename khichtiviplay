@@ -352,9 +352,9 @@ https://thvip.site/thuanviet/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/bWphc09pZXFEZWlVMTJxR05icXNyZz09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 1 HD
-https://live5.k8v4dh4.app/live/78905744.m3u8?khichtv
+http://extraott.com/live/6772191932/1654508883/153695.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 2 HD
-https://live5.k8v4dh4.app/live/73998414.m3u8?khichtv
+http://extraott.com/live/6772191932/1654508883/153707.m3u8
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHU NỮ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -513,7 +513,7 @@ https://d.org.vn/Khich-TiVi-online-vtvcab12-HD-mpd
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/syvqgF8/ON-Football-vbktv.jpg" group-title="VTVCab" ,ON FOOTBALL FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://263.org.vn/Khích-online-2025-vtvcab16-index-m3u8
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="VTVCab" ,ON FOOTBALL HD
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -528,7 +528,7 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://d.org.vn/Khichtv-online-2025-vtvcab18-index-m3u8
+http://extraott.com/live/6772191932/1654508883/153707.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/83opzg6q_onsportnews6ae431366bc5fd7e0f22d4796e909d59_296_168.webp", ON SPORTS NEWS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla
