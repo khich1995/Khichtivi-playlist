@@ -160,12 +160,12 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8|Referer=http://sctvonl
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
-http://bentre5.hoangai.vn:8086/stream/Nkd2WVZ5ZUcxb0JmSUxsbzJlb2UzZz09/bkJ3M0xNRzhNUlBRdzF5YXg3UWY2Zz09/khichtv/fhwuw@4216/playlist.mpegts
+http://113.160.152.31:5050/udp/232.84.1.37:8196
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
 http://bentre5.hoangai.vn:8086/stream/Nkd2WVZ5ZUcxb0JmSUxsbzJlb2UzZz09/MHpyQzBRZjVySitHcEVESlZkdXMrdz09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/RGhibkEwQllDcHFXUXdHSTExTmtGbkhVTStCRHFYYTMvSEZrZ0RPYWszVT0=/khichtv/fhwuw@4216/playlist.mpegts
+http://113.160.152.31:5050/udp/232.84.1.34:8178
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1.org.vn/Khích📺online-k-cine-HD-LIVE
