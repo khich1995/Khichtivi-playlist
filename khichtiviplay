@@ -1309,7 +1309,7 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://211.75.171.121:8559/http/61.67.128.137:8081/hls/71/813/ch043.m3u8
+http://211.75.171.r121:8559/http/61.67.128.137:8081/hls/71/813/ch043.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1324,7 +1324,8 @@ http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/UU5iNktKa
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
+http://202.150.172.3:5000/rtp:/239.1.1.81:8460
+#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://live.netmaxtv.com:8080/live/live/HasBahCa.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
 #EXTVLCOPT:http-user-agent=khích TiVi
