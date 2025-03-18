@@ -1435,7 +1435,7 @@ http://202.150.172.3:5000/udp/239.1.2.10:8306
 http://202.150.172.3:5000/udp/239.1.1.134:8778
 #EXTINF: -1 tvg-id = "blueantext" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/jgvBsL9/hbo-xtreme.png",hbo xtreme
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+http://202.150.172.3:5000/udp/239.1.1.125:8724
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
