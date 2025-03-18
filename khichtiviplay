@@ -1309,7 +1309,7 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://211.75.171.r121:8559/http/61.67.128.137:8081/hls/71/813/ch043.m3u8
+http://202.150.172.3:5000/udp/239.1.1.137:8796
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1508,15 +1508,15 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #-------------------HBO Asia-------------------#
 
 #EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080p)
-http://108.181.20.197/livehttpplay?channel_id=20091
+http://202.150.172.3:5000/udp/239.1.1.237:9396
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
-http://108.181.20.197/livehttpplay?channel_id=20093
+http://202.150.172.3:5000/udp/239.1.1.211:9240
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
 http://108.181.20.197/livehttpplay?channel_id=20314
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+http://202.150.172.3:5000/udp/239.1.1.190:9116
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
-http://108.181.20.197/livehttpplay?channel_id=20093
+http://202.150.172.3:5000/udp/239.1.2.80:8578
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
 #EXTVLCOPT:http-user-agent=khichtivi
 http://170.254.18.106/CINEMAX/index.m3u8
@@ -1524,7 +1524,7 @@ http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move laotv🇱🇦
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
-http://221.237.171.209:8888/udp/239.69.1.102:10250
+http://221.237.171.209:8888/udp/239.1.1.133:8772
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1265666.png",HBO2
