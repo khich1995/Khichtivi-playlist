@@ -81,10 +81,10 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/17/03/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰23:5:45|📆/18/03/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
-http://202.150.172.3:5000/udp/232.84.1.38:8202
+http://202.150.172.3:5000/udp/239.1.1.73:8412
 
 #-*--THVL FHD-*--#
 
@@ -913,7 +913,7 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://testcam.go.ro:8080/hls/hd365.m3u8
+http://202.150.172.3:5000/udp/239.1.1.123:8712
 #EXTINF: -1 tvg-id = "binhthuan" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8888zunm_binh_thuan.png",Bình Thuận HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1429,10 +1429,10 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
 http://extraott.com/live/6772191932/1654508883/191947.m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
-https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+http://202.150.172.3:5000/udp/239.1.2.10:8306
 #EXTINF: -1 tvg-id = "blueantent" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/z7Thn9r/hbo-mudi-khich-TV.png",HBO MuDi
 #EXTVLCOPT:http-user-agent=KhichTivi
-
+http://202.150.172.3:5000/udp/239.1.1.134:8778
 #EXTINF: -1 tvg-id = "blueantext" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/jgvBsL9/hbo-xtreme.png",hbo xtreme
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
@@ -1585,13 +1585,13 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:0 tvg-id="nhkbsp" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
 http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://50.7.234.10:8278/Celestialindo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0bba166e49d3abeb80d99bcd7262581a
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
 http://epg.112114.xyz/douyu/1713615
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 http://202.150.172.3:5000/udp/239.1.1.97:8556
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-
+http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbmgNK8O5HWrs7vD2gu3oJuKnQyIAvA-HcRjQu_K45U_xqEE&s" group-title="Quốc Tế",NHK WORLD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #-'-***¥¥¥*Movies World-'-*¥¥¥#
