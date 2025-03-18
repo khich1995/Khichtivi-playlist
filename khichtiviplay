@@ -1508,13 +1508,13 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #-------------------HBO Asia-------------------#
 
 #EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080p)
-http://202.150.172.3:5000/udp/239.1.1.109:8628
+http://202.150.172.3:5000/udp/239.1.2.249:9378
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
-http://202.150.172.3:5000/udp/239.1.1.211:9240
+http://202.150.172.3:5000/udp/239.1.2.245:9366
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
-http://202.150.172.3:5000/udp/239.1.2.208:9202
-#EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
 http://202.150.172.3:5000/udp/239.1.1.254:9338
+#EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
+http://202.150.172.3:5000/udp/239.1.2.100:9518
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
 http://202.150.172.3:5000/udp/239.1.2.80:8578
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
@@ -1543,9 +1543,9 @@ http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&t
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
+#EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+http://202.150.172.3:5000/udp/239.1.2.72:8408
 #EXTINF:0 tvg-id="sone" tvg-name="" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Khích TiVi Phim",sone🇺🇸
 https://stream1.freetv.fun/c99c2a8e453e79685525b1146c39b0b5283ccebb2fa4749ebc77dc78afc178ed.m3u8
 #EXTINF:0 tvg-id="kplus" tvg-name="" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="KhíchTiVi",➕ plus🇺🇸
