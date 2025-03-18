@@ -1702,10 +1702,10 @@ https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/hsJ3f9T/khichtv-logo-Dreamworks-FHD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ2kwTy9LNVpoNS9MYkZ2QT09/khichtv/fhwuw@4216/playlist.mpegts
+http://202.150.172.3:5000/udp/239.1.1.139:8808
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTCdYbMHJ6mBPe7h0R6LBRCmIvw7Ht2clVW6viNnC88Zc1IpZVIzNeRU&s", BabyFirst
 #EXTVLCOPT:http-user-agent=VkhichTivi
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/dDdRRmU1SkdMeE5NMFdCbFYrOTlpUT09/khichtv/fhwuw@4216/playlist.mpegts
+http://202.150.172.3:5000/udp/239.1.1.41:8220
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://i.ibb.co/rMbtPD9/supertoonstv.png", supertoonstv
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #-'-Quốc Tế  wowow--''--×"
