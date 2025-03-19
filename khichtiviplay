@@ -70,7 +70,7 @@ https://s.net.vn/Khichtv-live-VTV13-HD?-2669/playlist.m3u8?khichtv|Referer=http:
 https://263.org.vn/Khichtv-80-vtv14-EC?key/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://cookies.elementfx.com/ublive/ublive.php?id=2254
+https://1.org.vn/Khichtivi-live-80-vtv15-fhd-index-m3u8
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0ZZbnFlOEQvN04xZDRkd29DVXFvd3k0bk5abHZoR3czck8vMlBOLzNBRnlkODUxZzhudUtTOTl5UGRTWkZhNTl6eVpKWkxzRmhzMFdsQTFDUHIxdVRRPT0=/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣5️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
