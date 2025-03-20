@@ -934,7 +934,7 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
+http://bentre5.hoangai.vn:502/stream?url=https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
@@ -1364,22 +1364,22 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?khichtv|Referer=http:
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "boxmovie1" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/vkVLJwz/images-1.jpg", Box Movie1 HD👌khíchTV
-https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+https://1.org.vn/Khich-TiVi-online-boxmovies1-index-m3u8
 #EXTINF: -1 tvg-id = "inthebox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/DV1TpCb/images.png", In The Box👌khíchTV
 #EXTVLCOPT:http-user-agent=Gia Hưng23
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Gia Hưng23
-https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+https://d.org.vn/Khichtv-online-2025-intheboxhd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhollywood" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", Hollywood Classics👌khíchTV
-https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
+https://263.org.vn/Khích-online-2025-hollywoodclassichd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/BKMsB5N/images.jpg", Box Hits👌khíchTV
-https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+https://1.org.vn/Khichtv-boxhits-index-m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTINF:-1 tvg-id="musicbox" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Music Box HD 👌khíchTV
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
+https://1.org.vn/Khích📺-musicboxhd-LIVE
 #EXTINF:-1 tvg-id="happykids" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Happykids HD 👌khíchTV
-https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
+https://1.org.vn/Khich📺80happykidhd-LIVE
 #EXTINF:-1 tvg-id="boxhtis" group-title="🎞️|IN The Box" tvg-logo="https://i.ibb.co/BKMsB5N/images.jpg" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/BKMsB5N/images.jpg",Box Hits
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://spstr.abntv.live/hls/psstream.m3u8
