@@ -203,7 +203,7 @@ https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://stream1.freetv.fun/b6b4e7b5fef3935c55068cfa8ab4980146001c5292c2203b1004de66268bd7a1.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/9vhq4SD/khichtivi-kenh1.jpg" group-title="VTC -Khích📺", khích tivi 1
-https://stream1.freetv.fun/fnx-2.m3u8
+https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe5fe1cd676b7.ctv
 #EXTINF:0 tvg-id="vtc2" group-title="VTC - Khích📺" tvg-logo="https://i.ibb.co/z2xWqMQ/khichtivi-kenh2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", khích TiVi 2 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
