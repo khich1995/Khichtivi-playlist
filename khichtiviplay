@@ -260,7 +260,7 @@ http://202.150.172.3:5000/udp/239.1.1.248:9494
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-http://114.241.202.175:8888/rtp/239.3.1.184:8001
+http://202.150.172.3:5000/rtp/239.1.1.249:9496
 #EXTINF:-1 tvg-id="vtc17hd" group-title="KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offset}.m3u8",MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="💙bóng đá⚽| VTC" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
