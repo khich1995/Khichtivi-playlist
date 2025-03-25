@@ -209,7 +209,7 @@ https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0tvg-id="vtc3hd"group-title="VTC-KhichTV" tvg-logo="https://i.ibb.co/m4gYkRX/khichtivi-kenh3.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi 3 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://170.254.18.106/HBO_PLUS/index.m3u8
+https://stream1.freetv.fun/c75348581735e23aaf2c85c674507e82c96906f152d2cbab74d2ee378d7a5e4e.ctv
 #EXTINF:0 tvg-id="vtc4hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/0agsfxm9_yeah1-family89c8f12a26fd8f5edaa414ff48d2dd0c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://170.254.18.106/HBO_MUNDI/index.m3u8
