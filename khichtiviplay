@@ -244,7 +244,7 @@ http://202.150.172.3:5000/udp/239.1.2.245:9366
 http://202.150.172.3:5000/udp/239.1.2.249:9378
 #EXTINF:-1 fileid="vtc11" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
-http://202.150.172.3:5000/udp/239.1.1.190:9116
+http://202.150.172.3:5000/udp/239.1.2.245:9366
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://bom.so/khichtv-vtc12-m3u8
