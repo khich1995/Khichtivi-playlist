@@ -251,7 +251,7 @@ https://bom.so/khichtv-vtc12-m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/cwoumgm7_vtc13_296_168.webp",VTC13 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC - Khích📺" tvg-logo="https://i.ibb.co/NV7xf45/VTC13-4-K-logo-khichtv.png",VTC5 + FHD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC - Khích📺" tvg-logo="https://i.ibb.co/NV7xf45/VTC13-4-K-logo-khichtv.png",ITV2 FHD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
