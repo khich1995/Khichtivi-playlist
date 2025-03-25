@@ -255,7 +255,7 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://61.163.58.154:1321/ms/IPTV.php?id=158
+http://202.150.172.3:5000/udp/239.1.1.248:9494
 #EXTINF:-1 tvg-id="vtc15hd" group-title="khíchTiVi|REALMADRID" tvg-logo="https://i.ibb.co/QMh5t52/Realmadrid-TV.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc15-hd/dvr-${start}-${offset}.m3u8",Realmadrid-TV HD
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
@@ -266,7 +266,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-id="vtc18hd" group-title="💙bóng đá⚽| VTC" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+http://202.150.172.3:5000/udp/239.1.1.249:9496
 #EXTINF:-1 tvg-id="vtc20hd" group-title=💙khichTV|TRỰC TIẾP bóng Đa⚽" tvg-logo="https://i.ibb.co/jH7wFYf/khich-Ti-Vi-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",⚽🏀 TRỰC TIẾP
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="vtc21hd" group-title="💙khichTV| Bong ĐÁ TRỰC TIẾP " tvg-logo="https://i.ibb.co/h9td1z1/khich-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc19-hd/dvr-${start}-${offset}.m3u8",Bong Da TRỰC TIẾP
