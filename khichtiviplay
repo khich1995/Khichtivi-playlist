@@ -1529,7 +1529,10 @@ http://202.150.172.3:5000/udp/239.1.2.206:9186
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move laotv🇱🇦
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
-http://221.237.171.209:8888/udp/239.1.1.133:8772
+http://202.150.172.3:5000/udp/239.1.1.201:9180
+
+#"'"''& HBO MY 123@#@₫@@****#@,@
+
 #EXTINF:-1 tvg-id="hbo" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
 http://178.219.128.68:64888/HBOHD?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="hbo2" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1265666.png",HBO2
