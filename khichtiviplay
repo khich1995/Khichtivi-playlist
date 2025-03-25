@@ -209,22 +209,22 @@ https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0tvg-id="vtc3hd"group-title="VTC-KhichTV" tvg-logo="https://i.ibb.co/m4gYkRX/khichtivi-kenh3.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi 3 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-https://stream1.freetv.fun/c75348581735e23aaf2c85c674507e82c96906f152d2cbab74d2ee378d7a5e4e.ctv
+https://stream1.freetv.fun/bc46e144154a34bd76b145e5a5115989b9594d71d0cbe89ff1bcccfe3d18a7ba.m3u8
 #EXTINF:0 tvg-id="vtc4hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/0agsfxm9_yeah1-family89c8f12a26fd8f5edaa414ff48d2dd0c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://170.254.18.106/HBO_MUNDI/index.m3u8
+
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/m8rrki02_tv-bluee75315eb0043c1655dac0c4a7f24a6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://183.215.211.219:9998/tsfile/live/0016_1.m3u8
+https://stream1.freetv.fun/e4e3fe1e96a38a8c09d09863c6b47b0c4ae01eca51fdd0958bbbe921142a435a.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - Khích📺" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/69_ecbdd665.jpg?width=384&version=9&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",VTC5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://extraott.com/live/6772191932/1654508883/191881.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-http://170.254.18.106/HBO_XTREME/index.m3u8
+https://stream1.freetv.fun/48d28b877b445ddd9e61982467916fb29aefe24724b4b2ecd9688878d7ab2faa.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 FHD  - todayTV
 #EXTVLCOPT:http-user-agent="khichTV"
-http://170.254.18.106/HBO_FAMILY/index.m3u8
+https://stream1.freetv.fun/9f7e2242ceaea9771a959389ccb232ba85cb99e0d89ff691da0d0d7df0f9e877.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://170.254.18.106/HBO_SIG/index.m3u8
@@ -233,7 +233,7 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 https://stream1.freetv.fun/201c02f4acada60fefb9e637c2c9478cba6dacbca99c8c74befcc65d8c830613.ctv
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://113.218.229.47:8081/tsfile/live/0009_1.m3u8
+https://stream1.freetv.fun/ac514ca33490559312bebac55ebf9e420618829b8c5efa50865f87b08cf81da9.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
