@@ -559,7 +559,7 @@ https://d.org.vn/KhíchTiVi📺-VTVCAB19-LIVE🔓
 #EXTVLCOPT:http-user-agent="khich TV"
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?khichtv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://lh3.googleusercontent.com/nS_GAa1aWbu4vLWKIMcKRuwUeyVGD6QXtDvn6LFyngp4TOVJqkpWxh99XakDVoh7NfG56RTaLxXYAPmjTu6oma0UYOKgI-szgF_otWVB6_6LZnt2CmutF9NspaCw8sZyVw=w1280",ON MUCIC
+#EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://i.ibb.co/VpMbZfy0/ON-Music-Copyright-by-VTVcab-khichtivi.png",ON MUCIC
 https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
