@@ -82,7 +82,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰21:43:55|📆/27/03/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰21:43:55|📆/28/03/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 http://202.150.172.3:5000/udp/239.1.1.73:8412
@@ -1315,7 +1315,7 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://202.150.172.3:5000/udp/239.1.2.80:8578
+http://61.163.58.154:1321/ms/IPTV.php?id=157
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
 http://202.150.172.3:5000/udp/239.1.2.206:9186
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX FHD🇻🇳
@@ -1327,7 +1327,8 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://202.150.172.3:5000/rtp/239.1.2.207:9190
+http://61.163.58.154:1321/ms/IPTV.php?id=157
+#😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://live.netmaxtv.com:8080/live/live/HasBahCa.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
