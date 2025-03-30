@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/Lịch-phat-song-khichtivi-epg-xml-gz,http://epg.ra1n.lol/jp.xml,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://s.id/khichtivi,https://bit.ly/khichtivi,https://xem.li/25khichtivi,https://g2.by/ThaoTiVi"
+#EXTM3U url-tvg="https://bit.ly/Lịch-phat-song-khichtivi-epg-xml-gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://s.id/khichtivi,https://bit.ly/khichtivi,https://xem.li/25khichtivi,https://g2.by/ThaoTiVi"
 
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé
 
@@ -1590,7 +1590,7 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="nhkbs1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic 🇱🇷
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://fm1077.serv00.net/Smart.php?id=Celestial2
-#EXTINF:0 tvg-id="nhkbsp" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
+#EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
 http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://fm1077.serv00.net/Smart.php?id=Celestialindo
