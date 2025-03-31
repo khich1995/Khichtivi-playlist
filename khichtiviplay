@@ -346,12 +346,12 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT: http-user-agen= KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/thuanviet/index.m3u8
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://vieon.vn/truyen-hinh-truc-tuyen/htvc-thuan-viet-hd&extension=m3u8&n=1&location=yes
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8gqjv4o5_htvc_gia_dinh.png",HTVC GIA ĐÌNH FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/bWphc09pZXFEZWlVMTJxR05icXNyZz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:3333/get_media_link?path=https://vieon.vn/truyen-hinh-truc-tuyen/htvc-gia-dinh&extension=m3u8&n=1&location=yes
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 1 HD
 http://extraott.com/live/6772191932/1654508883/153695.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 2 HD
