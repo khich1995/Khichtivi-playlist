@@ -517,7 +517,7 @@ https://1.org.vn/Khichtv80-vtvcab16HD-LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0lWMzZ4SlBlcWEzZHlpQnJIQUx0aGk3ZnRIYXc4Y2xYSHRtclhpajhWcDM0U3pYQmdFSE1pYlZjWkFZd29wbURRWVBJWmYyMzJ6SFM1SDNFdnJVOFF3PT0=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/MlpXclRXZDhpQ0JWUVNGYUlxYWhGMzZPY2RRRjlCanFHMDlYekZnTlh2c0FQQnQvRnQ0cDhsdVlXNmUyN1AweEtYQzVvdFd0WEh0ZGhZVE1JQ3JaR1E9PQ==/khichtv/fhwuw@4216/playlist.mpegts
 #http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/S1ZCQnMvZmhwOHdYMFBrL0NsRVJ5UT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://p1.cvtv.xyz/bun?token=live
 #EXTINF:0 tvg-id="vtvcab17hd0" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
@@ -535,7 +535,7 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/ellzaVNNOHlQSVFUZklDQWFSSmRydz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/MlpXclRXZDhpQ0JWUVNGYUlxYWhGMzZPY2RRRjlCanFHMDlYekZnTlh2czd4VDY4R0Y5N1luR0hSc3Y2dlUwMFhDRys2Rm5MSlBrZUl0L2l1cTliYkE9PQ==/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/jJM1xWD/khichtv-online-fpt-play-2024.jpg", FPT play HD khích online
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
