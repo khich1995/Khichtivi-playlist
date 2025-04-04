@@ -694,7 +694,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https:/
 http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/cVJOYkRnYVVFdXlBSmZuTVRLNE9Gd0xMUCswbWV0MEhzbG9MWTh5TG1KTT0=/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://bentrhttp://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/bXRUQlp1NXJ1WVlPOUZxKzIwWTRvQT09/khichtv/fhwuw@4216/playlist.mpegts
+//https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img.upanh.tv/2024/10/24/kmc_20241023_225855.png" tvg-id="vtv1hd",TROAMI FHD
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/B67KfWW/SCTV-PTP-logo-khichtv.webp", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khichtivi
