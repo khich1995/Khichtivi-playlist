@@ -1473,7 +1473,7 @@ https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/DM9Bg20/axn-movies-khichtv.png",AXN MOVIES HD 🇨🇳
 http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#https://familyhls.persiana.live/hls/stream.m3u8
+#https://familyhls.per Iconiasiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -1507,7 +1507,7 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #-------------------HBO Asia-------------------#
 
 #EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080p)
-http://202.150.172.3:5000/udp/239.1.2.249:9378
+http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
 http://202.150.172.3:5000/udp/239.1.2.245:9366
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
@@ -1585,15 +1585,15 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://fm1077.serv00.net/Smart.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://fm1077.serv00.net/Smart.php?id=Celestialindo
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
-http://202.150.172.3:5000/udp/239.1.1.97:8556 http://fm1077.serv00.net/Smart.php?id=Celestial2?=http://epg.112114.xyz/douyu/1713615
+http://fm1077.serv00.net/Smart.php?id=Celestial2?=http://epg.112114.xyz/douyu/1713615
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
-http://202.150.172.3:5000/udp/239.1.1.97:8556
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-http://202.150.172.3:5000/udp/239.1.2.231:9336
+http://aktv-stream.m16tv.cfd/stream/astro_a1/hits/AKTV.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbmgNK8O5HWrs7vD2gu3oJuKnQyIAvA-HcRjQu_K45U_xqEE&s" group-title="Quốc Tế",NHK WORLD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #-'-***¥¥¥*Movies World-'-*¥¥¥#
