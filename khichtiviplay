@@ -1431,10 +1431,10 @@ http://extraott.com/live/6772191932/1654508883/191947.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/hitsmovies/AKTV.m3u8
 #EXTINF: -1 tvg-id = "blueantent" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/z7Thn9r/hbo-mudi-khich-TV.png",HBO MuDi
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://202.150.172.3:5000/udp/239.1.1.134:8778
+http://37.27.111.214:8080/live/94/hls.m3u8
 #EXTINF: -1 tvg-id = "blueantext" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/jgvBsL9/hbo-xtreme.png",hbo xtreme
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://202.150.172.3:5000/udp/239.1.1.125:8724
+http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
