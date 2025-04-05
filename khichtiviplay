@@ -1574,11 +1574,11 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| FOX" tvg-logo="https://i.ibb.co/WfK49Fv/Khich-TV-Fox-02-12-23.png", FOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://stream01.vnet.am/Fox/mono.m3u8
+http://fm1077.serv00.net/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| FOX LIFE" tvg-logo="https://i.ibb.co/zQbKPqx/Fox-life.jpg",FOX LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬|Khích TiVi Phim" tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/07/Cinemax.webp"Cinemax
 #EXTINF:0 tvg-id="nhkbs1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic 🇱🇷
 #EXTVLCOPT:http-user-agent=khichtv/19-03
@@ -1602,10 +1602,10 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.ibb.co/XbCXJc7/Movies-World-2-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Movies World 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://202.150.172.3:5000/udp/239.1.1.105:8604
+http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.ibb.co/ykH9BLS/Movies-World-3-khichtv.png" catchup="append" catchup-days="2" pcatchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Movies World 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://202.150.172.3:5000/udp/239.1.1.44:8238
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #@÷'starch-'xcvzx'cxxcz#
 
@@ -1618,7 +1618,7 @@ https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #-'-wwe-'-khichTV*#
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
-http://extraott.com/live/6772191932/1654508883/153736.m3u8
+http://fm1077.serv00.net/Smart.php?id=Wwe
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/MSWWmRP/khich-online-logo-WWE.jpg" group-title="Quốc Tế",WWE Dự phòng 2
 http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/tstdsB8/khichtivi-wwe.jpg" group-title="Quốc Tế",WWE Dự phòng 3
