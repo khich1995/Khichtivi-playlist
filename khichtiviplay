@@ -1562,9 +1562,10 @@ http://epg.112114.xyz/douyu/85894
 http://epg.112114.xyz/douyu/20415
 #EXTINF:0 tvg-id="fujitv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",
 #EXTINF:0 tvg-id="Osaka" tvg-name="" tvg-logo="https://i.ibb.co/fYq2Swz/meiyamovie.jpg" group-title="Khích TiVi Phim",meiyamovie HD
-https://cinehls.persiana.live/hls/stream.m3u8
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
-http://epg.112114.xyz/douyu/2793084
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/LYws8nK/Khichtv-sony-cine.jpg",SONY CINE HD 🇺🇸
