@@ -1575,7 +1575,7 @@ https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| FOX" tvg-logo="https://i.ibb.co/WfK49Fv/Khich-TV-Fox-02-12-23.png", FOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fm1077.serv00.net/Smart.php?id=cinemax_twn
+https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| FOX LIFE" tvg-logo="https://i.ibb.co/zQbKPqx/Fox-life.jpg",FOX LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
