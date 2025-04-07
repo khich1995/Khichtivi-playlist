@@ -208,7 +208,7 @@ https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/fhwuw@4216/playlist.mpegtst
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/fhwuw@4216/playlist.mpegts 
