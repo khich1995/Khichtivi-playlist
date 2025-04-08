@@ -737,11 +737,11 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #-*--Thiết yếu-*--#
 
-#EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HCATV1 - HiTV HD
+#EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HITV HD
 #EXTVLCOPT:http-user-agent=Khichtivi/2.1
 https://1.org.vn/Khichtv-360-32-hitv-mpd
 #http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/WWx2PTm2/musicv2beat-logo.png", HCATV2 -MUSIC-V2BEAT
+#EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/Vc45wHD5/You-TV-logo-khichtivi.png", YOUTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #xem miễn phí 0 Động
 https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
@@ -750,12 +750,12 @@ https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://lives.antv.gov.vn/channel/antv/channel/antv_720p/chunks.m3u8
+https://wowza.danet.vn/live/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="💕| Hanoicab" tvg-logo="https://i.ibb.co/FBhhd6q/ANTGTV-khichtivi.png", An Ninh Thế Giới
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="phimhayhd" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/mhXPq5n/Phim-hay-logo-khichtivi.png", HCATV - Phim Hãy FHD
 https://bom.so/KhichTV-live-phim-hay-m3u8
-#EXTINF:-1 tvg-id="phimhayhd" group-title="💕|TODAY PLUS" tvg-logo="https://i.ibb.co/44Rt4cH/Phim-Hay-Khich-Ti-Vi.png",Phim Hãy HD
+#EXTINF:-1 tvg-id="phimhayhd" group-title="💕|TODAY PLUS" tvg-logo="https://i.ibb.co/WWx2PTm2/musicv2beat-logo.png",MUSIC-V2BEAT HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="ttqtv" group-title="💕| Hanoicab" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
