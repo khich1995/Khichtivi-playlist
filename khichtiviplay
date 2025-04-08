@@ -751,6 +751,10 @@ https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://wowza.danet.vn/live/antv/playlist.m3u8
+#EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
+#EXTVLCOPT:http-user-agent=KhichTivi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://stream1.freetv.fun/c77554f79a1d45f38dc4228495563cfe22f3dfb2ed35cf4bb10f92785587ddcd.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="💕| Hanoicab" tvg-logo="https://i.ibb.co/FBhhd6q/ANTGTV-khichtivi.png", An Ninh Thế Giới
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="phimhayhd" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/mhXPq5n/Phim-hay-logo-khichtivi.png", HCATV - Phim Hãy FHD
