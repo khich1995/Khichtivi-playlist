@@ -34,19 +34,19 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonl
 #EXTINF:-1 tvg-id="vtv6hd" group-title="khích 📺2️⃣0️⃣2️⃣5️⃣KhíchTV|VTV" tvg-logo="https://i.ibb.co/VY86j22/VTV-can-tho-khichtv.jpg",❤️VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxch2/vtvcanhd_abr.smil/chunklist_b4200000.m3u8vonline.vn/
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣KhíchTV|VTV"tvg-logo="https://i.ibb.co/NNXFYRh/vtv7-hd-khichtv.png",❤️VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxch2/vtv7hd_abr.smil/chunklist_b4200000.m3u8nline.vn/
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣KhíchTV|VTV" tvg-logo="https://i.ibb.co/hMTwZpF/vtv8-hd-khichtv.png",❤️VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib
-https://live.fptplay53.net/fnxch2/vtv8hd_abr.smil/chunklist_b500000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/0QY1kvm/vtv9-hd-khichtivi.png",❤️VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxch2/vtv9hd_abr.smil/chunklist_b500000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
