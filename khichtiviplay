@@ -773,9 +773,9 @@ https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png",TH Thông Tấn HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png",Nhân Dân TV HD
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://images.danet.vn/images/thumbs/960x540/3e/28c/a291015a5e02a648ece30e5e5ee51fd2.jpg",VTV1 DANET
 #EXTVLCOPT:http-user-agent=KhichTivi
-
+https://wowza.danet.vn/live/vtv1/chunklist_w265924937.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
 htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
