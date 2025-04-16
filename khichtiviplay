@@ -795,7 +795,7 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
  
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/rMKpSBy/Dai-truyen-hinh-vov-tv.png",Du lịch-Trang tin tức của Truyền hình VOVTV HD|30
 https://live.fptplay53.net/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/WKNcFMq/THTV-HD.png", THTV | Truyền Hình Trà Vinh
