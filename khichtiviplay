@@ -1507,7 +1507,7 @@ http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
 #×'c×=%Quốc Tế kix-":-#
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
-https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
@@ -1551,7 +1551,7 @@ http://185.188.188.235/live/hbo3/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:iptvcat.com
 #-'-phim Hành động-'-*
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN 🇬🇧
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
@@ -1599,7 +1599,7 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://fm1077.serv00.net/Smart.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://fm1077.serv00.net/Smart.php?id=Celestialindo
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
@@ -1607,7 +1607,7 @@ http://fm1077.serv00.net/Smart.php?id=Celestial2?=http://epg.112114.xyz/douyu/17
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-http://aktv-stream.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/hits/AKTV.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbmgNK8O5HWrs7vD2gu3oJuKnQyIAvA-HcRjQu_K45U_xqEE&s" group-title="Quốc Tế",NHK WORLD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #-'-***¥¥¥*Movies World-'-*¥¥¥#
@@ -1663,7 +1663,7 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AulTyvZqUXo8mkw134AeTuVv2c-CEob1yw&usqp=CAU",animax HD 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://202.150.172.3:5000/udp/239.1.1.64:8358
