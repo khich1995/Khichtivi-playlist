@@ -1489,7 +1489,7 @@ https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 http://50.7.137.106:8080/AMC/index.m3u8?token=test
 #https://familyhls.per Iconiasiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
-https://streamer1.nexgen.bz/AXN/index.m3u8
+http://122.117.71.103:8557/http/220.130.87.218:8081/hls/71/813/ch043.m3u8
 #https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇨🇳
 https://263.org.vn/Khichtv-mytv-warnertvhd-index-m3u8
@@ -1507,11 +1507,11 @@ http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
 #×'c×=%Quốc Tế kix-":-#
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
-http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
-http://170.254.18.106/HBO_MUNDI/index.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD 🇱🇷
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -1599,9 +1599,9 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://fm1077.serv00.net/Smart.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-http://aktv_stream.m16tv.cfd/stream/aktv3/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
-http://fm1077.serv00.net/Smart.php?id=Celestialindo
+http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
 http://fm1077.serv00.net/Smart.php?id=Celestial2?=http://epg.112114.xyz/douyu/1713615
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
