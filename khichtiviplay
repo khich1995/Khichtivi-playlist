@@ -788,11 +788,10 @@ htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://vod-cdn02.danet.vn/live/quocphong/playlist.m3u8
-
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng FHD
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.ibb.co/1nX3zfC/An-ninhtv-khichtv.jpg",AN NNH HD
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qk7hd" group-title="| Quân khu7" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg",Quân Khu7 HD
  
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
