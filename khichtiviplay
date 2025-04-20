@@ -759,7 +759,7 @@ https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Moliza
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #https://wowza.danet.vn/live/antv/playlist.m3u8
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
