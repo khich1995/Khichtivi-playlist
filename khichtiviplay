@@ -755,12 +755,13 @@ https://1.org.vn/Khichtv-360-32-hitv-mpd
 #xem miễn phí 0 Động
 https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
 #http://113.160.152.31:5050/udp/232.84.1.14:8058
-#EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
+#EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Moliza
-https://wowza.danet.vn/live/antv/playlist.m3u8
-#EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
+#https://wowza.danet.vn/live/antv/playlist.m3u8
+#EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
