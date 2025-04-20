@@ -758,7 +758,7 @@ https://263.org.vn/KhíchTiVi-80-Youtv-LIVE🔓
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Moliza
 https://wowza.danet.vn/live/antv/playlist.m3u8
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
