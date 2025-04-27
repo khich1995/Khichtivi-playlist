@@ -133,27 +133,16 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" t89vg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T2JFZHhLaTh2YllwNjlIWTA3b1A3UmJKeVkyR1VXeXRuYkxCWEd1VzJzalR6ZWNaMm9DUUhHL3F5Zmt1dCtsUUpuSTFBdzBXVlBKcncyWkNGOHMza2pnPT0=/khichtv/fhwuw@4216/playlist.mpegts
-#http://1.55.150.77:2023/udp/225.1.1.155:30120
-#http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ ACTION HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)/
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03TzFCeXF5VDd3WFpjM3JaVzkxTWpvM1VnbTUvSU56dWUxQUJYamt6a3hxdExCMlFOdFVZWDFHUERuRE5xa2g0VHZHUWs0S3NINXVFR2Z1WDloWEk4T3dRPT0=/khichtv/fhwuw@4216/playlist.mpegts
-#http://1.55.150.77:2023/udp/225.1.1.154:30120
-#EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/WpHgVMR/khichtv-ksp1-vip.jpg", K+SPORT1 VIP HD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0Fua0M4dzFoRElqcWxFaGREV1BIdnpnTUVIbUtnNE1jU25WUVlrTkhaKytJRHlHT3hRTk1jY1RrTGRsUlQvQzZxdUd0cUZHejdVTWVycUFlNmdIWlBBPT0=/khichtv/fhwuw@4216/playlist.mpegts
-#EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/ZSZmfFK/khichtv-ksp2-vip.jpg", K+SPORT2 VIP HD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0JNbG5oa1BES1YySk54ZDlBMzU5czUwYXlXazV5TVZUSVc4OUN5c1Uyb2Y3WGhmTURnSVRKNllrYmh4eUcxb0dwWEVZSDVYN1ZkTGdMUGsvVHpEK09nPT0=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T2JFZHhLaTh2YllwNjlIWTA3b1A3UmJKeVkyR1VXeXRuYkxCWEd1VzJzalR6ZWNaMm9DUUhHL3F5Zmt1dCtsUUpuSTFBdzBXVlBKcncyWkNGOHMza2pnPT0=khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0=/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",K+KIDS
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSUltUlg2RXZDeThVeldNV2dZMjUyWjBveW1ITStzR2N0Q21LZHYxbmpWTFkzQUgrQTkzTXAxNjVCVWZDOEYxVHc=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSUltUlg2RXZDeThVeldNV2dZMjUyWjBveW1ITStzR2N0Q21LZHYxbmpWTFkzQUgrQTkzTXAxNjVCVWZDOEYxVHc=/khichtv/77332/playlist.mpegts
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2 FHD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSUltUlg2RXZDeThVeldNV2dZMjUyWjMyWjRwd01SY2J0UFlXQ0sycFVidFhYSW8vTzZ4cTFtTWlhdHRDVllrN1k=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSUltUlg2RXZDeThVeldNV2dZMjUyWjMyWjRwd01SY2J0UFlXQ0sycFVidFhYSW8vTzZ4cTFtTWlhdHRDVllrN1k=/khichtv/77332/playlist.mpegts
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0=/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0=/khichtv/77332/playlist.mpegts
 
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
@@ -164,7 +153,7 @@ https://canvato.net/NDhFH?=cliptv&sport1-HD/playlist.m3u8
 https://canvato.net/gzfsn?=cliptv-sport2/playlist.m3u8
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZEdHN2Z2xjY1Q2YXMra0VnVkQvVFJkakxtVHk0dFFRS3VvQTZnc3FTN2c2N3ZkSVR2T2FQK0E2WnhmVlNUWGMxbUVQSllQMnpySmcvU1h0ZW9wL05wdU94TVg1N01jaWpvYkYwRTNDNWg1dQ==/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZEdHN2Z2xjY1Q2YXMra0VnVkQvVFJkakxtVHk0dFFRS3VvQTZnc3FTN2c2N3ZkSVR2T2FQK0E2WnhmVlNUWGMxbUVQSllQMnpySmcvU1h0ZW9wL05wdU94TVg1N01jaWpvYkYwRTNDNWg1dQ==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/QWxCVkk1U3BNcVZaYVBuRHBldm8yQT09/khichtv/fhwuw@4216/playlist.mpegts
@@ -172,16 +161,16 @@ http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/QWxCVkk1U
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/dDI5d01RZE1NWTJWbUU3YkQrL3JYQT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/dDI5d01RZE1NWTJWbUU3YkQrL3JYQT09/khichtv/77332/playlist.mpegts
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -208,19 +197,19 @@ https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/77332/playlist.mpegts
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/fhwuw@4216/playlist.mpegts 
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/77332/playlist.mpegts 
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU1JXQlc0Q1pMNzhIck91UXYxMGVsS1pzYlc4c3diVUVxZ3Y3UGlUdkFCY009/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU1JXQlc0Q1pMNzhIck91UXYxMGVsS1pzYlc4c3diVUVxZ3Y3UGlUdkFCY009/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/20yC1Qh7/kh-ch-Ti-Vi-KSP4.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP4 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29KYUhFbnRHaHZWVU1sOFRtZGdrWmwya0ljK2JiRERJS0IvYVMzVnQwd1E9/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29KYUhFbnRHaHZWVU1sOFRtZGdrWmwya0ljK2JiRERJS0IvYVMzVnQwd1E9/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://i.ibb.co/7xCD6KJy/khich-Ti-Vi-KSP5.jpg",Khích Tivi K+SP5 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2pHSm8vMWlDMXhSM3huNmhERWE3T1JrNTVzaDRvK1M2Z0Rac000a2lxcWc9/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2pHSm8vMWlDMXhSM3huNmhERWE3T1JrNTVzaDRvK1M2Z0Rac000a2lxcWc9/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="vtc6hd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 http://125hvt.ddns.net:21585/vtv6/tracks-v1a1/mono.m3u8
@@ -1274,7 +1263,7 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YmEvbk9paFN1MFhxenBNS0hGNVRSUT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YmEvbk9paFN1MFhxenBNS0hGNVRSUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
@@ -1287,7 +1276,7 @@ http://202.150.172.3:5000/udp/239.1.1.95:8544
 #EXTINF:-1 tvg-id="hbohitshd" tvg-name="HBO" tvg-logo="https://i.ibb.co/dJrV6SH/kh-ch-Ti-Vi-hbo-hits.jpg" group-title="Quốc Tế",HBO HITS khich TV Online🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
 https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
@@ -1295,7 +1284,7 @@ https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b26
 #EXTVLCOPT:http-user-agent=khichtv/17-03-24
 #EXTVLCOPT:http-use  zmr-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://202.150.172.3:5000/udp/239.1.1.87:8496
-#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/fhwuw@4216/playlist.mpegts
+#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/fhwuw@4216/playlist.mpegts-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/Wz8NkG2/khichtv-live-Cinemax.jpg" group-title="Quốc Tế",Cinemax khích Tivi Online🇻🇳
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1315,18 +1304,18 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MDdEY3FwYW5uUzEyd3ZhNjNCOFBsdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MDdEY3FwYW5uUzEyd3ZhNjNCOFBsdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/UU5iNktKa1FuSUZONmhmcEVTSlluZz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/UU5iNktKa1FuSUZONmhmcEVTSlluZz09/khichtv/77332/playlist.mpegts
 #http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/77332/playlist.mpegts
 #😁http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX FHD🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1737,7 +1726,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #'x-"Kham phá-'"-'#
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|phim netmaxtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjh-KAx1WGbDRmTxfN0ZK_UI7cP01sj1Fe7g&usqp=CAU",netTmaxtv
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦|FANDOM TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-fandom-tv.jpg",FANDOM TV
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="💫| movie fone" tvg-logo="https://i.imgur.com/NxbbQCP.png", movie|fone|mihtv
@@ -1812,11 +1801,11 @@ https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MHN2eHgrWFlaZE5QSTFYNnVselRDdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/MHN2eHgrWFlaZE5QSTFYNnVselRDdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="discoveryhd"group-title="🌿KhichTivi|Khám phá"tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"catchup="append"catchup-days="2"catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TTk5Y0ordFJTRFNNTCt0WWpPSGxPUT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TTk5Y0ordFJTRFNNTCt0WWpPSGxPUT09/khichtv/77332/playlist.mpegts
 #http://45.159.74.14/DiscoveryChannel/index.m3u8
 #https://stream1.freetv.fun/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8
 #https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -1833,7 +1822,7 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9856
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/khichtv/77332/playlist.mpegts⁹
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/QQtK5w4/hq720.jpg", Natgeo HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
