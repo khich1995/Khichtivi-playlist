@@ -364,26 +364,26 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TENKU3ROOFloV2dyTmJwL1AzKzdUdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TENKU3ROOFloV2dyTmJwL1AzKzdUdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="htvccanhac onhd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png",HTVC CA NHẠC HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TVRFVDlGM1VvYWdrUUFndS9kV3owdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TVRFVDlGM1VvYWdrUUFndS9kV3owdz09/khichtv/khichtv/77332/playlist.mpegts
 #EXTINF: -1 tvg-id = "htvcphimhd vieon" group-title = "💛Khích📺|vieOn" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WXREdkU0dDFHd3FJVmdMYm9hSEFoUT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WXREdkU0dDFHd3FJVmdMYm9hSEFoUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="htvcphimhd ViettelTV" group-title="HTVc" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PLUS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QzVQTDY5N1JGTHVGMFBTVktJbFd3QT09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/QzVQTDY5N1JGTHVGMFBTVktJbFd3QT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV Online" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="spotv"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNJuoEhY0tRrMU8wcsu-oOBhmEhRWFT7RwjO-Q0XaMw&s" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV1
-http://bentre5.hoangai.vn:8086/stream/Tk5maHlVNHdtd3JOdWtHakoyYWMwZz09/Q3hucDhQZW1ocUczWkh0WnpJNENKdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/Tk5maHlVNHdtd3JOdWtHakoyYWMwZz09/Q3hucDhQZW1ocUczWkh0WnpJNENKdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2czfn2fkp9rzA0YXI3lZXslKUt9c3GjNvAiGIT6L&s" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV2
 http://bentre5.hoangai.vn:8086/stream/Tk5maHlVNHdtd3JOdWtHakoyYWMwZz09/UzQ0SUY2RXFwUXhHU0F2YVdOaHRmZz09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD
@@ -515,13 +515,13 @@ https://1.org.vn/Khichtv80-vtvcab16HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZKaXRHTnN2azdtMm03Q01FZWpvcE5ud1A3RjIzY3hEcVYybnc2RW0rTXQxMHVycVlJRVVBWGo3YzVlRnhadkdwU3hYWnVFR3hNMDUvMjhQQWZObHRER2xhempjZUpnWm5RZ2x2dUFzRThOdQ==/khichtv/fhwuw@4216/playlist.mpegts
-#http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/akRMa2VtVys2QmFkaWlVdURMeW9KdWQ3eWIzMzVOYnpXUTl4aUQwWmFoTT0=/khichtv/fhwuw@4216/playlist.mpegts
+#http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/akRMa2VtVys2QmFkaWlVdURMeW9KdWQ3eWIzMzVOYnpXUTl4aUQwWmFoTT0=/khichtv/77332/playlist.mpegts
 #http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/S1ZCQnMvZmhwOHdYMFBrL0NsRVJ5UT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://p1.cvtv.xyz/bun?token=live
 #EXTINF:0 tvg-id="vtvcab17hd0" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/eVc1NEl0bUNod1p4WDc4Z1FtMGdHdz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/eVc1NEl0bUNod1p4WDc4Z1FtMGdHdz09/khichtv/77332/playlist.mpegts
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -533,8 +533,7 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZIc0c4UGhncU8xNEtUTzNnSkJRZ1MyMjJteklGOTNJVGhGMmpSazY5dVhKanhTa0NlYU9PaDZZcjJOR2VvTTZpaHh0eEcxamNWSnpZcy9oRFJOZDNISE9aM0ZMb05XVVkyaTFjeDFvdEM0WHVSNm5XSjBVN2tkeHIyeUZFYzliaWc9PQ==/khichtv/fhwuw@4216/playlist.mpegts
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/jJM1xWD/khichtv-online-fpt-play-2024.jpg", FPT play HD khích online
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZIc0c4UGhncU8xNEtUTzNnSkJRZ1MyMjJteklGOTNJVGhGMmpSazY5dVhKanhTa0NlYU9PaDZZcjJOR2VvTTZpaHh0eEcxamNWSnpZcy9oRFJOZDNISE9aM0ZMb05XVVkyaTFjeDFvdEM0WHVSNm5XSjBVN2tkeHIyeUZFYzliaWc9PQ==/khichtv/77332/playlist.mpegts
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -560,7 +559,7 @@ https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cmh6Mmc2b0lyd2JnYkJyRVNZRUcyZz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/cmh6Mmc2b0lyd2JnYkJyRVNZRUcyZz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids ViettelTV
 
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
@@ -576,7 +575,7 @@ http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/SW1vMTNxR
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/j8xthfzb_vtvcab23-on-golf-thumb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/UU1wdzFoN21UTTE3OEZiU3hKTFoxZz09/khichtv/fhwuw@4216/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/UU1wdzFoN21UTTE3OEZiU3hKTFoxZz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/08/23/v9atjhmw_vtvcab23.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
