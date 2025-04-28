@@ -213,21 +213,21 @@ http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5Dd
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://i.ibb.co/7xCD6KJy/khich-Ti-Vi-KSP5.jpg",Khích Tivi K+SP5 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2pHSm8vMWlDMXhSM3huNmhERWE3T1JrNTVzaDRvK1M2Z0Rac000a2lxcWc9/khichtv/77332/playlist.mpegts
-#EXTINF:-1 tvg-id="vtc6hd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-http://125hvt.ddns.net:21585/vtv6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 FHD  - todayTV
+https://canvato.net/usOZ5?ksp1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 FHD  - todayTV
 #EXTVLCOPT:http-user-agent="khichTV"
-http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
+https://canvato.net/Cmbjn?ksport2
+#EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://50.7.234.10:8278/Hbofamily/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4b38e6d57242e62a2043799c3cb4178a
-#EXTINF:-1 tvg-id="vtc8" group-title="THỬ NHIỆM - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
+https://canvato.net/0wQUb?kcine
+#EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
+https://canvato.net/7u0eR
+#EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
-http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
+https://canvato.net/D6pLW
 #EXTINF:-1 tvg-id="vtc9hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
