@@ -1334,7 +1334,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/UU5iNktKa1FuSUZONmhmcEVTSlluZz09/khichtv/77332/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/TmNjY0kvNEN3aHNWV3l2YXMwSG1nQT09/khichtv/77332/playlist.mpegts
 #=*==_==BOX QT-_=*#
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 1
