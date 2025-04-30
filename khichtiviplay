@@ -1327,7 +1327,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/kix/AKTV.m3u8
 #😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://live.netmaxtv.com:8080/live/live/HasBahCa.m3u8
@@ -1590,7 +1590,7 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
@@ -1654,7 +1654,7 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AulTyvZqUXo8mkw134AeTuVv2c-CEob1yw&usqp=CAU",animax HD 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://202.150.172.3:5000/udp/239.1.1.64:8358
