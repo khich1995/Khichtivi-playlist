@@ -134,9 +134,9 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 #EXTVLCOPT:http-referrer=https://deptraivkl.com//
-https://sctv.locket.website/kplus.m3u8?protected=salo7Lb1b9cSbvXQA%2Bkl%2FypnxdX0a%2BtZOHxAv3jmvaoe4m7mZKbcQXOHF2F8EUq4DlyUB3R%2FK70rjLk%2FpsJ8Bw%3D%3D&channel=ksport1
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWxyN05nU0hCYmZEWVd4UzRZZEtyWkFidkszUkJHbVRtS1pqN3FqK3Z5Mmc9PQ==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="VIP,K+,VN,Basic" group-title="K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ACTION HD 
-https://canvato.net/z7wzV?=get=&kctionhd
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WjBidEVqV2ZUUzJ6ZmdXZC9yNzFZWVNxa0VQQ0hmdkFFWGJCQ0FJUVl4WWc9PQ==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",K+KIDS
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1 FHD
 https://1.org.vn/Khichtv-80-k-sport1-FHD
@@ -145,7 +145,7 @@ https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0x6b01WOVZiNzVvMFpma3labVhDWlVteVQxUVFZaG9qM1RXMm0rb0s3TjNZOG9weFo0a0F0S1lTVWFnZTB3VDA3UVpWRzE2am9Pcy94NlpIdDZ3VjFBPT0==/khichtv/77332/playlist.mpegts
+http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWNwSlJhYlE5QTlQVVB1L3FyNDg5OU8veUxRYVBmTE0rOU9Sc3liM3lVS0E9PQ==/khichtv/77332/playlist.mpegts
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
 
@@ -1591,7 +1591,7 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
