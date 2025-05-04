@@ -133,6 +133,7 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" t89vg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://canvato.net/Gm0O1?=get=&kcinehd
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="VIP,K+,VN,Basic" group-title="K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ACTION HD 
 https://canvato.net/z7wzV?=get=&kctionhd
