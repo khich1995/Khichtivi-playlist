@@ -1543,7 +1543,7 @@ http://185.188.188.235/live/hbo3/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:iptvcat.com
 #-'-phim Hành động-'-*
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN 🇬🇧
-http://aktv_stream.m16tv.cfd/stream/aktv3/axn/AKTV.m3u8
+https://live.tvfix.org/live/axn/index.m3u8
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
@@ -1552,12 +1552,12 @@ http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&t
 https://stream1.freetv.fun/c99c2a8e453e79685525b1146c39b0b5283ccebb2fa4749ebc77dc78afc178ed.m3u8
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://fm1077.serv00.net/Smart.php?id=Tvnmovie
+http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 #EXTINF:0 tvg-id="sone" tvg-name="" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Khích TiVi Phim",sone🇺🇸
 http://202.150.172.3:5000/udp/239.1.1.172:9006
 #EXTINF:0 tvg-id="kplus" tvg-name="" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="KhíchTiVi",➕ plus🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://fm1077.serv00.net/Smart.php?id=Kplus
+http://50.7.234.10:8278/Kplus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ed9cfad2af3afeca5ceb3c03b24fa9fd
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/MZkXS0Q/asiancrush-logo-khichtivi.png" group-title="Khích TiVi Phim",ASIANCRSH🇺🇸
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name
 #EXTINF:0 tvg-id="ntv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",OLLYWOOD MOVIES HD
@@ -1568,7 +1568,7 @@ http://epg.112114.xyz/douyu/85894
 http://epg.112114.xyz/douyu/20415
 #EXTINF:0 tvg-id="fujitv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",
 #EXTINF:0 tvg-id="meiyamovie" tvg-name="" tvg-logo="https://i.ibb.co/fYq2Swz/meiyamovie.jpg" group-title="Khích TiVi Phim",meiyamovie HD
-http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 #https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -1656,10 +1656,10 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AulTyvZqUXo8mkw134AeTuVv2c-CEob1yw&usqp=CAU",animax HD 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://202.150.172.3:5000/udp/239.1.1.64:8358
+http://50.7.234.10:8278/Animax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8040109662eda684ec7648c719e790ce
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/k9DfMC4/Khich-Ti-Vi-live-pops-anime.png",Pops Anime HD 🇻🇳
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Nickjr🇻🇳
