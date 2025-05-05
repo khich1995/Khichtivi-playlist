@@ -535,7 +535,6 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZIc0c4UGhncU8xNEtUTzNnSkJRZ1MyMjJteklGOTNJVGhGMmpSazY5dVhKanhTa0NlYU9PaDZZcjJOR2VvTTZpaHh0eEcxamNWSnpZcy9oRFJOZDNISE9aM0ZMb05XVVkyaTFjeDFvdEM0WHVSNm5XSjBVN2tkeHIyeUZFYzliaWc9PQ==/khichtv/77332/playlist.mpegts
-
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -708,7 +707,7 @@ http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/TFhyQmlaM
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="xem TVB" tvg-logo="https://i.ibb.co/2YQV1Lf/tv-BVN-khichtivi.jpg", TVB Việt Nam
 #EXTVLCOPT:http-user-agent=khichivi
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WllhQkxIUTgwUUNGRU9xcDN6WUZ3cUpqUU1YYTNhQzd3OFE1NFJrd1pSSkE9PQ==/khichtv/77332/playlist.mpegts
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 
