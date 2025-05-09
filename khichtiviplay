@@ -600,6 +600,9 @@ https://1.org.vn/Khích📺-TivimateSCTV3-FHD-LIVE🔓
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚Khich TiVi|SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
 #EXTINF: -1 group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/YD76vZY/khichtivi-logo-sctv5.png", SCTV5 HD - SCJ
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -625,7 +628,8 @@ https://1.org.vn/Khích📺-SCTV8-FHD-LIVE🔓
 https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐
 #EXTINF: -1 tvg-id = "sctv9hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png" tvg-id="sctv10hd",SCTV9 4K
 #EXTGRP:SCTV
-http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/MlorMHZNb3Y2bTgrSGlsMlAveDhUZz09/khichtv/fhwuw@4216/playlist.mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
 #http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac0
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚|MyK+ SCTV" tvg-logo="https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png", SCTV9 HD
 
