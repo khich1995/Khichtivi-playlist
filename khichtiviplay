@@ -670,12 +670,12 @@ https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+
 #http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/RjlYVFB0ditVMGFjOWZzVTV0QlJWUT09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:hgttp-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-https://263.org.vn/Khichtv-80-sctv22-fhd-mpd
+https://1.org.vn/Khichtv-80-sctv17-fhd-index-mpd
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mb0WpzV/SCTV17-SSport-logo-khichtv.webp", SCTV17 HD Vip
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/dEZDc3Z1bHpCVnRsQVhBdVIzSFFNdz09/khichtv/77332/playlist.mpegts
