@@ -658,18 +658,18 @@ https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/MlpXclRXZDhpQ0JWUVNGYUlxYWhGMzZPY2RRRjlCanFHMDlYekZnTlh2dlVUY1MzVENNSHlmNmVHR1VwQ2dMTlVOMDRKbTJ4Umh4bldMWXdqVFRSaFE9PQ==/khichtv/fhwuw@4216/playlist.mpegts
+https://1.org.vn/Khichtv-08-sctv15-fhd-m3u8
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/7btSjNJ/SCTV16-PNNDS-logo-khichtivi.webp", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/MlpXclRXZDhpQ0JWUVNGYUlxYWhGMzZPY2RRRjlCanFHMDlYekZnTlh2dkVhTzNja0NFSHFnMVlDUnkyZGcyZ0IyWHBtajBSa2JOZ0lnbGJ2eENDT2c9PQ==/khichtv/fhwuw@4216/playlist.mpegts
+https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/RjlYVFB0ditVMGFjOWZzVTV0QlJWUT09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:hgttp-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/Rk1icjl6WDhzRmFzeFdzTUF3anhJZz09/khichtv/fhwuw@4216/playlist.mpegts
+https://263.org.vn/Khichtv-80-sctv22-fhd-mpd
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mb0WpzV/SCTV17-SSport-logo-khichtv.webp", SCTV17 HD Vip
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/dEZDc3Z1bHpCVnRsQVhBdVIzSFFNdz09/khichtv/77332/playlist.mpegts
@@ -681,19 +681,19 @@ http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/T0g5Y2kze
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:khichtv
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/cHNuekVhUGhhZVRtclJQc3dBSVdpQT09/khichtv/77332/playlist.mpegts
+https://1.org.vn/Khíchtv-sctv19-mpd
 #EXTINF: -1 tvg-id = "sctv20hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3cZh5q4/SCTV20-logo-khichtv.webp", SCTV20 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/bytqOWZJcG1EVThqemVFNE1kOWkydz09/khichtv/77332/playlist.mpegts
+https://1.org.vn/Khíchtv-sctv20-mpd
 #EXTINF: -1 tvg-id = "sctv21hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/HH40k1p/SCTV21-logo-khichtv.webp", SCTV21 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/c21xMHBZanNtK3AxMWxxNFlxbnJxZz09/khichtv/77332/playlist.mpegts
+https://1.org.vn/Khíctv-sctv21mpd
 #EXTINF: -1 tvg-id = "sctv22hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/52j4ZTb/SCTV22-logo-2024-khichtv.webp", SCTV22 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/S3RoWEtjV2RPZE4vWnhxOVp1M0JFdz09/khichtv/fhwuw@4216/playlist.mpegts
+https://263.org.vn/Khichtv-80-sctv22-fhd-mpd
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/bXRUQlp1NXJ1WVlPOUZxKzIwWTRvQT09/khichtv/77332/playlist.mpegts
@@ -701,7 +701,7 @@ http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/bXRUQlp1N
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/B67KfWW/SCTV-PTP-logo-khichtv.webp", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://bentre5.hoangai.vn:8086/stream/WGFOck5JMWhwa0RuUVZSNm9Jd1FvQT09/TFhyQmlaMW1wcW1XcU1TY2JUMHVFUT09/khichtv/77332/playlist.mpegts
+https://1.org.vn/Khíchtv-sctv-phim-tong-hop-mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/0hXtXSr/khichtivi-tvb.png", SCTV TVB
 #EXTVLCOPT:http-user-agent=khichTivi
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
