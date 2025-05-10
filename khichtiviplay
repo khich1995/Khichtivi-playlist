@@ -150,22 +150,24 @@ http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
-http://14.175.115.251:4022/udp/232.84.1.98:8562
+http://14.175.115.251:4022/udp/232.84.1.37:8196
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU29uWGZGMUFzdDZXQUlzaGpSYXJib2ZXOUpKSDFOZGo3dU91MnlOMmZlZUk9/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
-http://14.175.115.251:4022/rtp/232.84.1.131:10368
+http://14.175.115.251:4022/udp/232.84.1.34:8178
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZEdHN2Z2xjY1Q2YXMra0VnVkQvVFJkakxtVHk0dFFRS3VvQTZnc3FTN2c2N3ZkSVR2T2FQK0E2WnhmVlNUWGMxbUVQSllQMnpySmcvU1h0ZW9wL05wdU94TVg1N01jaWpvYkYwRTNDNWg1dQ==/khichtv/77332/playlist.mpegts
+http://14.175.115.251:4022/udp/232.84.1.38:8202
+#http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZEdHN2Z2xjY1Q2YXMra0VnVkQvVFJkakxtVHk0dFFRS3VvQTZnc3FTN2c2N3ZkSVR2T2FQK0E2WnhmVlNUWGMxbUVQSllQMnpySmcvU1h0ZW9wL05wdU94TVg1N01jaWpvYkYwRTNDNWg1dQ==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/QWxCVkk1U3BNcVZaYVBuRHBldm8yQT09/khichtv/77332/playlist.mpegts
+#http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/QWxCVkk1U3BNcVZaYVBuRHBldm8yQT09/khichtv/77332/playlist.mpegts
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION HD sv1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/77332/playlist.mpegts
+http://14.175.115.251:4022/udp/232.84.1.33:8172
+#http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/77332/playlist.mpegts
@@ -174,7 +176,8 @@ http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1W
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/KKIDS/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
+http://14.175.115.251:4022/udp/232.84.3.42:11800
+#http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/KKIDS/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
 http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/dDI5d01RZE1NWTJWbUU3YkQrL3JYQT09/khichtv/77332/playlist.mpegts
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
