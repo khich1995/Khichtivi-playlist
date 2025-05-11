@@ -680,7 +680,7 @@ https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-http://14.175.115.251:4022/udp/232.84.3.21:11926
+http://14.168.10.210:12343//udp/232.84.3.21:11926
 #http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/RjlYVFB0ditVMGFjOWZzVTV0QlJWUT09/khichtv/fhwuw@4216/playlist.mpegts
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
