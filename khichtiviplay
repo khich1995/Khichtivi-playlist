@@ -229,8 +229,7 @@ http://14.168.10.210:12343//udp/232.84.3.43:11794
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://canvato.net/usOZ5?ksp1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 FHD  - todayTV
-#EXTVLCOPT:http-user-agent="khichTV"
-https://canvato.net/Cmbjn?ksport2
+#EXTVLCOPT:http-user-agent="khichTV"https://canvato.net/bXrbQ?ksport2
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://canvato.net/0wQUb?kcine
