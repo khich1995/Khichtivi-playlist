@@ -1417,19 +1417,19 @@ http://extraott.com/live/6772191932/1654508883/191943.m3u8
 #EXTINF: -1 tvg-id = "cinemaxhd" group-title = "📦 Khích TiVi|QT AXN" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", AXN👌khíchTV
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳khíchTV|Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg",Paramount HD
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/4.m3u8
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #https://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #-'z-phim ma kinh dj-#
 
 #EXTINF:-1 tvg-id="phutho" group-title="Khích TiVi Quốc Tế" tvg-logo="https://i.ibb.co/0j6VZBz/2023-11-23-khichtv-thrill.png",THRILL HD
-http://202.150.172.3:5000/udp/239.1.1.83:8472
+http://198.16.100.186:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/34psJCd/Kenh-Boo-khich-TV.png"group-title="Malaysia",BOO HD
-http://extraott.com/live/6772191932/1654508883/29626.m3u8
+
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/W4bBHfc7/Astro-Boo-khichtv-Nov-2025.png"group-title="Malaysia",BOO FHD
-http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27e1258369fb9499616cd1f7760997a3
+
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://i.ibb.co/YcccLY7/image.png",Ghost Kinh Di
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20&checkedby:iptvcat.com
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9t1-hnljxvxnwGYGMAqc2VY3Lx9mTn-lTw&usqp=CAU",sreen
