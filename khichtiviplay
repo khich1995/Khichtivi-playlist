@@ -175,7 +175,8 @@ https://canvato.net/H5pb8?=getkhichtv=&k+action
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/77332/playlist.mpegts
+http://14.168.10.210:12343//udp/232.84.1.123:10320
+#http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
@@ -184,7 +185,7 @@ http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1W
 https://canvato.net/Irn00?=getmytv:k+kidshd/playlist.mpegts
 #http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/KKIDS/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
-http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/dDI5d01RZE1NWTJWbUU3YkQrL3JYQT09/khichtv/77332/playlist.mpegts
+http://14.168.10.210:12343//udp/232.84.3.42:11800
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
@@ -217,13 +218,13 @@ http://14.168.10.210:12343//udp/232.84.1.98:8562
  http://14.168.10.210:12343//udp/232.84.1.34:8178
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-
+http://14.168.10.210:12343//udp/232.84.1.96:8550
 #EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/20yC1Qh7/kh-ch-Ti-Vi-KSP4.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP4 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+http://14.168.10.210:12343//udp/232.84.1.97:8556
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://i.ibb.co/7xCD6KJy/khich-Ti-Vi-KSP5.jpg",Khích Tivi K+SP5 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-
+http://14.168.10.210:12343//udp/232.84.3.43:11794
 #EXTINF:-1 tvg-id="ksport1hd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://canvato.net/usOZ5?ksp1
