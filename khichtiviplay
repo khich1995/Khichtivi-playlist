@@ -215,7 +215,7 @@ https://live2.w677i02vb1.app/live/56477455.m3u8
 http://14.168.10.210:12343//udp/232.84.1.98:8562
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
- http://14.168.10.210:12343//udp/232.84.1.34:8178
+ http://14.168.10.210:12343//udp/232.84.1.131:10368
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://14.168.10.210:12343//udp/232.84.1.96:8550
