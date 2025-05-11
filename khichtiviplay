@@ -126,7 +126,7 @@ https://hls.cdnokvip.com/live/LUUBI/index.m3u8?khichtv⚽
 https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?=khíchtivi⚽
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",⚽ Trực tiếp Bóng đá 5  FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
+https://canvato.net/Irn00?=getmytv:k+kidshd/playlist.mpegts
 
 #,',khichtivi K+,"",**********###
 
@@ -148,7 +148,7 @@ https://canvato.net/rlGBf?=get:khichtivi=&k+ksport2hd
 #https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
-?=get:khichtivi=&k+
+https://canvato.net/Irn00?=getmytv:k+kidshd/playlist.mpegts
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWNwSlJhYlE5QTlQVVB1L3FyNDg5OU8veUxRYVBmTE0rOU9Sc3liM3lVS0E9PQ==/khichtv/77332/playlist.mpegts
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
@@ -180,7 +180,7 @@ http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1W
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://canvato.net/zBbJK?=getkhichtv=&k+kids
+https://canvato.net/Irn00?=getmytv:k+kidshd/playlist.mpegts
 #http://bentre5.hoangai.vn:12345/192.168.2.41:100/stream?url=https://zenlive.onsports.vn/onplus/KKIDS/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS HD
 http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/dDI5d01RZE1NWTJWbUU3YkQrL3JYQT09/khichtv/77332/playlist.mpegts
