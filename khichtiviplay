@@ -130,7 +130,8 @@ https://canvato.net/Irn00?=getmytv:k+kidshd/playlist.mpegts
 
 #,',khichtivi K+,"",**********###
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="khichTV K+" t89vg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE HD
+
+#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 #EXTVLCOPT:http-referrer=https://deptraivkl.com//
