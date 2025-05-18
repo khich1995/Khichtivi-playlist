@@ -1454,8 +1454,8 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
 
-#EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
-http://aktv-stream.m16tv.cfd/stream/taiwan/hitsmovies/AKTV.m3u8
+#EXTINF: -1 tvg-id = "moviebox" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
+https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF: -1 tvg-id = "blueantent" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/z7Thn9r/hbo-mudi-khich-TV.png",HBO MuDi
 #EXTVLCOPT:http-user-agent=KhichTivi
 http://37.27.111.214:8080/live/94/hls.m3u8
