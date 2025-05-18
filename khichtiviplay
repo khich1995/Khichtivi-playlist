@@ -2021,17 +2021,17 @@ https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #------CCTV------#
 #EXTINF:-1 group-title="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://182.119.23.35:23456/rtp/225.1.4.73:1102
+http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://182.119.23.35:23456/rtp/225.1.4.74:1103
+http://ygbh.site/php/bfgd.php?id=061
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://182.119.23.35:23456/rtp/225.1.4.158:1194
+http://154.219.126.20:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1 group-title="kênh CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png",CCTV4 FHD
 http://182.119.23.35:23456/rtp/225.1.5.30:1333
 #EXTINF:-1 group-title="kênh CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5 FHD
-http://182.119.23.35:23456/rtp/225.1.4.159:1195
+http://154.219.126.20:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV6」",CCTV5+ FHD
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
 #EXTINF:-1 group-title="kênh CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png",CCTV6 FHD
