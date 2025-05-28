@@ -82,7 +82,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣8️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/28/05/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣9️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/29/05/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 https://canvato.net/K38rl?=get=khichtivi&=sctv15
@@ -1188,7 +1188,7 @@ https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "soctrang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", STV1 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFe4-VVQjrjQWMu1-s6yzXlsbnIXtzb0gGOg&s", STV2 HD | TH Sóc Trăng
+#EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tpRfcXND/STV2-HD-2025-logo-khichtivi.png", STV2 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Moliza 
 http://bentre5.hoangai.vn:502/stream?url=https://pa.thst.vn/liveeventstv2.m3u8
 #EXTINF: -1 tvg-id = "sonla" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20210107094712&path-prefix=vi", STV HD | TH Sơn La
