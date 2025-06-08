@@ -654,9 +654,9 @@ https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐
 
 #EXTINF: -1 tvg-id = "sctv11hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/4dCphyC/SCTV11-logo-khichtv.webp", SCTV11 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/GquKQNnOkZYF1heP4oxtTQ/1749488400/anonymous/live/channel/sctv11/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+###EXTVLCOPT:http-referrer=https://sctvonline.vn
+https://e1.endpoint.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/GquKQNnOkZYF1heP4oxtTQ/1749488400/anonymous/live/channel/sctv11/index.m3u8|Referer=http://sctvonline.vn/
 #https://1.org.vn/Khích📺-SCTV11-FHD-LIVE🔓
 #EXTINF: -1 tvg-id = "sctv12hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/YL86h60/sctv12-logo-khichtivi.png", SCTV12 HD
 #EXTVLCOPT: http-user-agent = VKhichTivi
