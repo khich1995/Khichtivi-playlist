@@ -603,7 +603,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚Khich TiVi| SCTV" group-logo="https://pipitv.top/logo/sctv3.png" tvg-logo="https://i.ibb.co/RpT7WJY/khichtivi-logo-sctv3.png" , SCTV3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1749384648/n5vxKhdmWDl7Gv4jrnZlqX_o4G8/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/3TsR_B6BT2MAEi6taVc-1w/1749488400/anonymous/live/hls/sctv3/01.m3u8
 #https://1.org.vn/Khích📺-TivimateSCTV3-FHD-LIVE🔓
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚Khich TiVi| SCTV" group-logo="https://pipitv.top/logo/sctv4.png" tvg-logo="https://i.ibb.co/Qb00T81/khichtivi-logo-sctv4.png" , SCTV4 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
