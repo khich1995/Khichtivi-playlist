@@ -606,8 +606,7 @@ https://1.org.vn/Khích📺-TivimateSCTV3-FHD-LIVE🔓|Referer=http://sctvonline
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚Khich TiVi| SCTV" group-logo="https://pipitv.top/logo/sctv4.png" tvg-logo="https://i.ibb.co/Qb00T81/khichtivi-logo-sctv4.png" , SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://263.org.vn/sctv4
-#https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐|Referer=http://sctvonline.vn/
+https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚Khich TiVi|SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
@@ -636,8 +635,7 @@ https://1.org.vn/Khích📺-SCTV7-FHD-LIVE🔐|Referer=http://sctvonline.vn/
 https://1.org.vn/Khích📺-SCTV8-FHD-LIVE🔓|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv9hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://263.org.vn/sctv9
-#https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐|Referer=http://sctvonline.vn/
+https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv9hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png" tvg-id="sctv10hd",SCTV9 4K
 #EXTGRP:SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
@@ -687,8 +685,7 @@ https://1.org.vn/Khichtv-08-sctv15-fhd-m3u8|Referer=http://sctvonline.vn/
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 13)
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://263.org.vn/sctv16
-#https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd|Referer=http://sctvonline.vn/
+https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 13)
