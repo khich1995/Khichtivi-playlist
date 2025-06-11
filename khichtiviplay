@@ -1617,8 +1617,11 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#*"'"""*SONY MY#*#khichtv"*:"#
+
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/LYws8nK/Khichtv-sony-cine.jpg",SONY CINE HD 🇺🇸
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="QT" tvg-logo="https://i.ibb.co/3sndB8V/SONY-MOVIES-khich-TV.png", SONY MOVIES HD
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| FOX" tvg-logo="https://i.ibb.co/WfK49Fv/Khich-TV-Fox-02-12-23.png", FOX HD
