@@ -1308,8 +1308,8 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://canvato.net/BkMV3?get:khichtivi=&hbohd
-#http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/YmEvbk9paFN1MFhxenBNS0hGNVRSUT09/khichtv/77332/playlist.mpegts
+https://canvato.net/wVBQE?get=khichtv=&hbo-,hd
+#https://canvato.net/BkMV3?get:khichtivi=&hbohd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
@@ -1329,7 +1329,7 @@ https://canvato.net/aCQ6g?=get:khichtv=& cinemax
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=khichtv/17-03-24
 #EXTVLCOPT:http-use  zmr-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/77332/playlist.mpegts
+https://canvato.net/AQ7U9?=get=khichtv=& cinemax-hd
 #EXTINF:-1 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/fhwuw@4216/playlist.mpegts-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/Wz8NkG2/khichtv-live-Cinemax.jpg" group-title="Quốc Tế",Cinemax khích Tivi Online🇻🇳
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1349,7 +1349,7 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://canvato.net/hDY3F?=get:khichtv=&AXN.mpegts
+https://d.org.vn/Khich-TiVi-online-axn-hd-index-m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1358,9 +1358,9 @@ https://canvato.net/yjTzv?get:khichtv=&cinemaworldhd
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://stream1.freetv.fun/f753cd4af407d05f08ece34d468f3280ec549f7b46a32040f9b2600785cd8c4b.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WWw2aGR2dGVVSkZ0RzdzeVZQOGdhQT09/khichtv/77332/playlist.mpegts
+https://canvato.net/3oR63?=get=khichtv=& cinemaworl-hd
+#EXTINF:-1 tvg-id="Cinemaworldhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
+
 #😁http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX FHD🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1371,14 +1371,14 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
+https://canvato.net/GRuj1?=get=khichtv=&kix-fhd
 #😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://live.netmaxtv.com:8080/live/live/HasBahCa.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://canvato.net/8fiAT?get:khichtv=&wbtv
+https://canvato.net/WiIpm?get:khichtv=&warnertv-fhd
 #=*==_==BOX QT-_=*#
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 1
@@ -1421,7 +1421,7 @@ https://d.org.vn/Khichtv-online-2025-intheboxhd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhollywood" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", Hollywood Classics👌khíchTV
 https://263.org.vn/Khích-online-2025-hollywoodclassichd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/BKMsB5N/images.jpg", Box Hits👌khíchTV
-https://1.org.vn/Khichtv80boxhits-LIVE
+https://263.org.vn/Khích-online-box-hits-hd-index-m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTINF:-1 tvg-id="musicbox" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Music Box HD 👌khíchTV
 #EXTVLCOPT:http-user-agent=KhichTivi
