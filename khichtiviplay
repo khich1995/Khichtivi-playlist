@@ -1322,7 +1322,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohitshd" tvg-name="HBO" tvg-logo="https://i.ibb.co/dJrV6SH/kh-ch-Ti-Vi-hbo-hits.jpg" group-title="Quốc Tế",HBO HITS khich TV Online🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
 https://canvato.net/aCQ6g?=get:khichtv=& cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
