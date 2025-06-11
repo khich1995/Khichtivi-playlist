@@ -1209,7 +1209,9 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "soctrang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", STV1 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Moliza
+http://bentre5.hoangai.vn:502/stream?url=https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tpRfcXND/STV2-HD-2025-logo-khichtivi.png", STV2 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Moliza 
 http://bentre5.hoangai.vn:502/stream?url=https://pa.thst.vn/liveeventstv2.m3u8
