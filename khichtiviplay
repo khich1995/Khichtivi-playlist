@@ -192,7 +192,7 @@ https://dl.dropboxusercontent.com/s/hga31wuhzsm8k6o02fnqx/VIDEO_DOWNLOAD_1700195
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/hls/thcamau/index.m3u8|Referer=http://sctvonline.vn/
+https://freem3u.xyz/api/live/play.m3u8?tid=onstyle|Referer=http://sctvonline.vn/
 
 #--*Khích TiVi 2025*--#
 
