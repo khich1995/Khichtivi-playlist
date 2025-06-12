@@ -1578,12 +1578,12 @@ https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #"'"''& HBO MY 123@#@₫@@****#@,@
 
 #EXTINF:-1 tvg-id="hbo" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
-https://sv3.fbcdntv247.cfd/memfs/c1b75c6c-48df-46c5-a6e0-8a2787fb0f65.m3u8
+https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="hbo2" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1265666.png",HBO2
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1016114.jpg",HBO3
-http://185.188.188.235/live/hbo3/playlist.m3u8
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/23f412fa-a833-4e34-a94d-f2106fb04016/5.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/6mHe4A7.png",Celestia HBO ACTION 🇬🇧
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:iptvcat.com
 #-'-phim Hành động-'-*
@@ -1594,7 +1594,7 @@ https://live.tvfix.org/live/axn/index.m3u8
 http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stream1.freetv.fun/c99c2a8e453e79685525b1146c39b0b5283ccebb2fa4749ebc77dc78afc178ed.m3u8
+https://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://198.16.100.186:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
@@ -1627,7 +1627,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/LYws8nK/Khichtv-sony-cine.jpg",SONY CINE HD 🇺🇸
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="QT" tvg-logo="https://i.ibb.co/3sndB8V/SONY-MOVIES-khich-TV.png", SONY MOVIES HD
-https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| FOX" tvg-logo="https://i.ibb.co/WfK49Fv/Khich-TV-Fox-02-12-23.png", FOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1668,11 +1668,11 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #@÷'starch-'xcvzx'cxxcz#
 
 #EXTINF:-1 group-title="BS" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
-https://ec3b4b7e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/6e87d3c2-d1a3-47a2-95cb-246847dea8bf/2.m3u8
+https://fl5.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2
 https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
-https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2/426x240.m3u8?ap.debug=0&ap.pt=0&ap.sid=a30839bd-bb72-447f-ab84-3bb6841081a9&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=e175b681aedcf7e239d544d7cd8fe8dc
+https://fxtvhls.wns.live/hls/stream.m3u8
 
 #-'-wwe-'-khichTV*#
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
@@ -1709,7 +1709,7 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AulTyvZqUXo8mkw134AeTuVv2c-CEob1yw&usqp=CAU",animax HD 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/k9DfMC4/Khich-Ti-Vi-live-pops-anime.png",Pops Anime HD 🇻🇳
 https://haoyunlai.serv00.net/Smartv-1.php?id=Animax
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Nickjr🇻🇳
@@ -1723,13 +1723,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:ip
 #EXTINF:-1 tvg-id="cnhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/7r76MkN/CN-Khich-TV.png",CN HD ASIA
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cnhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/J3CCyc6/KhichTV.png",disneyxd HD ASIA
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="starch3" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="Japan",AMAGI TV🇳🇿
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.imgur.com/AR5BoZd.jpg" group-title="Japan",ADN TV🇳🇿
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1tvg-id="at-x"group-title="🌈KhichTivi|Hoạt hình" tvg-logo="https://i.ibb.co/59BWSzL/20231201-animetv-jhichtv.jpg",Anime TV🇵🇷
-
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1tvg-id="bs12"group-title="🌈KhichTivi|Hoạt hình" tvg-logo="https://i.ibb.co/6mMMW9g/20231130-khichtv-eports-max.png",eports max🇵🇷
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/3BwkWJm/Jetsons-khichtivi.jpg" group-title="Japan",Jetsons 24Horas
@@ -1747,7 +1747,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NjZyTmIvWDR4QjJBbmZBeVliak9Bdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇬🇾
 #EXTVLCOPT:http-user-agent=VKhichTivi
-https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8?token=890cb20821d54a41cd6010a10113bcabb33435fa-80e4e46d16ff97ed66391fb024166d79-1738694054-1738683254&remote=no_check_ip
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇲🇾
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
