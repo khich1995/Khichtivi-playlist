@@ -1650,7 +1650,7 @@ http://198.16.100.186:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/884afd7a-177f-407f-a983-d47cd2e36552/5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbmgNK8O5HWrs7vD2gu3oJuKnQyIAvA-HcRjQu_K45U_xqEE&s" group-title="Quốc Tế",NHK WORLD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #-'-***¥¥¥*Movies World-'-*¥¥¥#
@@ -1668,11 +1668,11 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #@÷'starch-'xcvzx'cxxcz#
 
 #EXTINF:-1 group-title="BS" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+https://ec3b4b7e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/6e87d3c2-d1a3-47a2-95cb-246847dea8bf/2.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2
-https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
-https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2/426x240.m3u8?ap.debug=0&ap.pt=0&ap.sid=a30839bd-bb72-447f-ab84-3bb6841081a9&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=e175b681aedcf7e239d544d7cd8fe8dc
 
 #-'-wwe-'-khichTV*#
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
