@@ -1713,9 +1713,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedb
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/k9DfMC4/Khich-Ti-Vi-live-pops-anime.png",Pops Anime HD 🇻🇳
 https://haoyunlai.serv00.net/Smartv-1.php?id=Animax
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Nickjr🇻🇳
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
-http://14.168.10.210:12343//udp/239.1.1.117:8676
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ2kwTy9LNVpoNS9MYkZ2QT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="onepnchahd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lalradorhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/b323dJx/Khich-Ti-Vi-lalrador-vn.png",LALRADOR HD 🇻🇳
@@ -1743,16 +1743,16 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/PZKX7wb/cn-logo-khichtv-2025.jpg", CN HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇰🇬
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NjZyTmIvWDR4QjJBbmZBeVliak9Bdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇻🇳
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/NjZyTmIvWDR4QjJBbmZBeVliak9Bdz09/khichtv/77332/playlist.mpegts
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇬🇾
 #EXTVLCOPT:http-user-agent=VKhichTivi
 https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8?token=890cb20821d54a41cd6010a10113bcabb33435fa-80e4e46d16ff97ed66391fb024166d79-1738694054-1738683254&remote=no_check_ip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇲🇾
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
-http://14.168.10.210:12343//udp/232.84.2.144:10684
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 #https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇪🇹
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
@@ -1764,7 +1764,7 @@ http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTCdYbMHJ6mBPe7h0R6LBRCmIvw7Ht2clVW6viNnC88Zc1IpZVIzNeRU&s", BabyFirst
 #EXTVLCOPT:http-user-agent=VkhichTivi
-http://14.168.10.210:12343//udp/232.84.3.225:11272
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/dDdRRmU1SkdMeE5NMFdCbFYrOTlpUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://i.ibb.co/rMbtPD9/supertoonstv.png", supertoonstv
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #-'-Quốc Tế  wowow--''--×"
