@@ -1786,7 +1786,7 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="⚗KhichTivi| Khoa học" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_640_360.png", HGTV HD
 #EXTVLCOPT:http-user-agent=khichTivi 99
-http://14.168.10.210:12343//udp/
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg", Love Nature 4K sv1
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg", Love Nature 4K vs2
@@ -1831,7 +1831,7 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏KhichTivi| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/qepbcwxy_microsoftteams-image7b2588fb851ee306d3ab77caa6e19d79_296_168.webp", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?=khichtivi
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHD
-http://14.168.10.210:12343//udp/232.84.3.61:11686
+http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SXplby9qSzQ5Q2l0Q0VoK1hNWkt3QT09/khichtv/77332/playlist.mpegts
 #http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘 FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
@@ -1879,7 +1879,7 @@ http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/WnlFZE5uV
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/QQtK5w4/hq720.jpg", Natgeo HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
+http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.upanh.org/2024/01/11/1200px-DMAX_-_Logo_2016.svg5e31b8ce089544f6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", DMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1887,7 +1887,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29j8qPUAHn99RsVIdFjJV1ofPeemQKBY2TA&usqp=CAU", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=KhichTivi=216
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://14.168.10.210:12343//udp/232.84.1.107:10218
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFiKco8gN-VHpLSuEzjCoU8fdYBGTiFeli-ZTJvlBD&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1901,12 +1901,12 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8olm4z5NtA5-qPzXwBkj7kGOooCznTeoQfjvFDyWuA&s", MTV
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2&serverSideAds=false&checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://i.ibb.co/LhcDDhn2/MTVN-HD-LIVE-khichtivi-logo.png", MTV LVIE
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2&serverSideAds
 #EXTINF:-1 group-title="🎶| Âm nhạc" tvg-logo="http://tvset.sbs/img/da-vinci-learning.png",Da Vinci HD
-https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/dbsXj9z/fashiontv-logo-blue-vertical-1.png", Fashion TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
@@ -1918,7 +1918,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_StWmOblqdEWskBoRE39y0yAt_FSv1wkz02l-OBYug&s", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9922
+
 #EXTINF:-1 tvg-id="hgtv" group-title="🎬KhichTivi| Giải trí" tvg-logo="http://tvset.sbs/img/food-network.png", Food Network
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
