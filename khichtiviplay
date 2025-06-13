@@ -622,7 +622,7 @@ https://1.org.vn/Khích-TiVi-sctv5|Referer=http://sctvonline.vn
 https://1.org.vn/Khích📺-SCTV6-FHD-LIVE🔓|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/jPtZrWGx/SCTV6-logo-khichtivi.png", SCTV6 FIM FHD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8 
-#EXTINF: -1 tvg-id = "sctv7hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/cxpbPwq/sctv7-khichtivi-logo.png ", SCTV7 HD 
+#EXTINF: -1 tvg-id = "sctv7hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3YsqZhxv/SCTV7-logo-khichtivi.png ", SCTV7 HD 
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
