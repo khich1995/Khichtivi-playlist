@@ -1994,7 +1994,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 tvg-id="workpoint23hd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",,ดูทีวีออนไลน์ช่อง workpoint 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/chunklist_w25751215_b1128000_slThai.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 #EXTINF:-1 tvg-id="9mcot30p" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/chbig/big_25_20220817095652.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 9 Mcot 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
@@ -2006,7 +2006,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playl
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
 #EXTINF:-1 tvg-id="thaipbs" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/chunklist_w485718894.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="ch7" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.malimarcdn.com/premium-thai7HDF.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ch7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
