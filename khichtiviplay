@@ -610,17 +610,17 @@ https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
 https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐
-#EXTINF: -1 group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/YD76vZY/khichtivi-logo-sctv5.png", SCTV5 HD - SCJ
+#EXTINF: -1 group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/8DRHnDp2/SCTV5-logo-khichtivi.png", SCTV5 HD - SCJ
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1.org.vn/Khích-TiVi-sctv5|Referer=http://sctvonline.vn
 
-#EXTINF: -1 tvg-id = "sctv6hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png "catchup =" append "catchup -days =" 2 "catchup-source =" https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", SCTV6 HD
+#EXTINF: -1 tvg-id = "sctv6hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/4gt58P2s/SCTV6-logo-khichtivi.png "catchup =" append "catchup -days =" 2 "catchup-source =" https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", SCTV6 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
 https://1.org.vn/Khích📺-SCTV6-FHD-LIVE🔓|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png", SCTV6 FIM FHD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/jPtZrWGx/SCTV6-logo-khichtivi.png", SCTV6 FIM FHD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF: -1 tvg-id = "sctv7hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/cxpbPwq/sctv7-khichtivi-logo.png ", SCTV7 HD 
 #EXTVLCOPT: http-user-agent = KhichTivi
