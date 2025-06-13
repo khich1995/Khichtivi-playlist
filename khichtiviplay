@@ -653,7 +653,7 @@ https://1.org.vn/Khích-TiVi-sctv10|Referer=http://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 ###EXTVLCOPT:http-referrer=https://sctvonline.vn
 https://1.org.vn/Khích📺-SCTV11-FHD-LIVE🔓|Referer=http://sctvonline.vn/
-#EXTINF: -1 tvg-id = "sctv12hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/YL86h60/sctv12-logo-khichtivi.png", SCTV12 HD
+#EXTINF: -1 tvg-id = "sctv12hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/wr4KFtbR/SCTV12-logo-khich-Ti-Vi.png", SCTV12 HD
 #EXTVLCOPT: http-user-agent = VKhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
