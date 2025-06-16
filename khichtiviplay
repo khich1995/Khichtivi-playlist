@@ -1703,16 +1703,20 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 
 #''="''Hoạt Hình-×+$"'#%
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax HD🇻🇳
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv1 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AulTyvZqUXo8mkw134AeTuVv2c-CEob1yw&usqp=CAU",animax HD 🇻🇳
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
+#EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/k9DfMC4/Khich-Ti-Vi-live-pops-anime.png",Pops Anime HD 🇻🇳
 https://haoyunlai.serv00.net/Smartv-1.php?id=Animax
-#EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Nickjr🇻🇳
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/8DtnjqfX/khichtv-play-logo-Nickelodeon-hd-png.png",Nickelodeon HD 🇻🇳
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/ns52XRK5/khichtv-play-logo-Teen-Nick-png.png",TeenNick HD 🇻🇳
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pvQKLsT4/khichtv-play-logo-Nickjr-png.png",Nickjr🇻🇳
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ2kwTy9LNVpoNS9MYkZ2QT09/khichtv/77332/playlist.mpegts
