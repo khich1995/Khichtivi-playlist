@@ -1717,9 +1717,9 @@ https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/ns52XRK5/khichtv-play-logo-Teen-Nick-png.png",TeenNick HD 🇻🇳
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pvQKLsT4/khichtv-play-logo-Nickjr-png.png",Nickjr🇻🇳
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/c1g0MzZnTnRFSTA3N1FBY0N1cnBOdz09/khichtv/77332/playlist.mpegts
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
-http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/SHI4eHpmQ2kwTy9LNVpoNS9MYkZ2QT09/khichtv/77332/playlist.mpegts
+https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/KczMNVcw/khichtv-play-logo-NICKTOONS-png.png",NICKTOONS HD 🇻🇳
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="onepnchahd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 🇻🇳
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w731778356_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="lalradorhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/b323dJx/Khich-Ti-Vi-lalrador-vn.png",LALRADOR HD 🇻🇳
