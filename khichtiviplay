@@ -606,7 +606,7 @@ https://1.org.vn/Khích📺-TivimateSCTV3-FHD-LIVE🔓|Referer=http://sctvonline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
 https://1.org.vn/Khich📺-SCTV4-FHD-LIVE🔐
-#EXTINF:-1 tvg-id="sctv4khd" group-title="💚Khich TiVi|SCTV" tvg-logo="https://i.ibb.co/LDb90gps/khich-play-logo-sctv4k.jpg", SCTV4K HD 
+#EXTINF:-1 tvg-id="sctv4k" group-title="💚Khich TiVi|SCTV" tvg-logo="https://i.ibb.co/DDwRr6xS/sctv4k-logo-khichtivi.jpg", SCTV4K HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
