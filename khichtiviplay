@@ -174,13 +174,13 @@ http://113.177.113.147:4022/rtp/232.84.1.122:10314
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://canvato.net/H5pb8?=getkhichtv=&k+action
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WVZJSUFkY0lQVHNwbTNmN0pUR0lDSStZVmJKZmR1U2gyZmxVV2hqeHFlVU5GYmprWk1ubEV0Nm92ZmYvc0dDMzlxNFBKRjNJQ3pFWVNtNnlOZU5qaFhZaFlyQmlhblJMWFRnd0IvZllid2ZDK1F1RkdpVzdsMi96KzdIUGJxUGVmK2VRWHI5R20wckUxS2I1ZkJiVHB0NkZTS201eVpNeTVQemFzV0tyazJqR1RXMDJMbm5UUE5GeDdVM21qdkxkK1ZYRlJkd2xzR2hCSE9TY1lXekZhRA==/khichtv/77332/playlist.mpegts
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD sv2
+#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION full HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://113.177.113.147:4022/rtp/232.84.1.123:10320
 #http://bentre5.hoangai.vn:8086/stream/aExUc3pMT2RmN0J2MGNiYUQyUkFMQT09/ZjMvWll1WDY0SjBXa3FodHYyaFREQT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS  FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 http://113.177.113.147:4022/rtp/232.84.3.43:11794
