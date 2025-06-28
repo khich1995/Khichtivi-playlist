@@ -1087,7 +1087,7 @@ https://cloudcdnvod.tek4tv.vn/live/hanoi1_abr.m3u8
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "hanoi4k" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVb-Ba3e0EPxwUJORnZSFkdSM9BT-HX--BA&s", Hanoi 4K HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://27.75.73.153:4022/udp/225.1.1.109:30120
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 #EXTINF: -1 tvg-id = "hanoi2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/z9j7d2uy_hanoi2dd8bf17d2cb430463d45f7eb5b30a26e_296_168.webp", HanoiTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
