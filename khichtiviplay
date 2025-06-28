@@ -857,14 +857,14 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:0 tvg-id="vtv5tn"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp",TÂY nguyên HD vieon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://27.75.73.153:4022/udp/225.1.4.179:30120
+http://42.113.181.143:8090/udp/225.1.4.179:30120
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",TÂY NAM BỘ HD vieon
 #EXTVLCOPT:khichtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://27.75.73.153:4022/udp/225.1.4.184:30120
+http://42.113.181.143:8090/udp/225.1.4.184:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.baodantoc.vn/uploads/2021/3/7/root41/66.jpg",Đồng Bào Đó HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.75.73.153:4022/udp/225.1.4.5:30120
+http://42.113.181.143:8090/udp/225.1.4.5:30120
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳Khích TiVi| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp",Bà Rịa Vũng Tàu
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
@@ -962,7 +962,7 @@ https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Moliza
-http://bentre5.hoangai.vn:502/stream?url=http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
@@ -973,7 +973,7 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
-http://bentre5.hoangai.vn:502/stream?url=https://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
@@ -1315,8 +1315,8 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://live247.freem3u.xyz:21585/hbo/index.m3u8
-#http://118.68.239.139:13579/udp/225.1.1.112:30120
+#http://live247.freem3u.xyz:21585/hbo/index.m3u8
+http://42.113.181.143:8090/udp/225.1.1.112:30120
 #https://canvato.net/BkMV3?get:khichtivi=&hbohd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1332,7 +1332,7 @@ https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://freem3u.xyz/r/cnjsupng?=khichtivi=hbohits
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
-http://118.68.239.139:13579/udp/225.1.2.86:30120
+http://42.113.181.143:8090/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=khichtv/17-03-24
