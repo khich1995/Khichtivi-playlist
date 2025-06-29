@@ -843,13 +843,14 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #-*--Địa phương-*--#
 #EXTINF: -1 tvg-id = "angiang1" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT3vXgJc3YvgU4UXybYlVX49TI45jKVS6LA&s",An Giang 1 HD
 #EXTVLCOPT: http-user-agent = khíchTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Moliza
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF: -1 tvg-id = "angiang2" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7pMBWRqiL6rI0USdpXETKzk46Dj0PYlpsWlpTRsMjQ&s",An Giang 2 HD
 #EXTVLCOPT: http-user-agent = khíchTivi
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "angiang3" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",An Giang 3 HD
 #EXTVLCOPT: http-user-agent = khíchTivi
+#EXTVLCOPT:http-user-agent=Moliza
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/1sgvDV5/tay-nam-bo-logo-khichtivi.jpg",TÂY NAM BỘ HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
