@@ -1223,11 +1223,10 @@ https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "soctrang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", STV1 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Moliza
-http://bentre5.hoangai.vn:502/stream?url=https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tpRfcXND/STV2-HD-2025-logo-khichtivi.png", STV2 HD | TH Sóc Trăng
 #EXTVLCOPT:http-user-agent=Moliza 
-http://bentre5.hoangai.vn:502/stream?url=https://pa.thst.vn/liveeventstv2.m3u8
+https://pa.thst.vn/liveeventstv2.m3u8
 #EXTINF: -1 tvg-id = "sonla" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20210107094712&path-prefix=vi", STV HD | TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF: -1 tvg-id = "tayninh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/3zwahyeb_tay-ninh_296_168.webp", TTV11 FHD | TH tây ninh
@@ -1249,7 +1248,7 @@ http://bentre5.hoangai.vn:502/stream?url=https://cdn.3ssoft.vn/live/phuthotv/phu
 #EXTINF: -1 tvg-id = "phuyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/1Q8wzmV/khichtv-logo-phu-yen.jpg", PTP HD sv1 | TH Phú Yên
 #EXTVLCOPT: http-user-agent khíchTivi
 #EXTVLCOPT: http-user-agent=http://bentre5.hoangai.vn:502/stream?url=
-http://bentre5.hoangai.vn:502/stream?url=http://113.161.4.48:8080/phuyen/tv/index.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:0 tvg-id="phuyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD sv2 _ TH Phú Yên
 https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangbinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/ij08jiqu_quangbinhde0917e1443678e11e0767ba57c5daa4_296_168.webp", QBTV FHD | TH Quảng Bình
@@ -1275,7 +1274,7 @@ https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/7b/PTQ_Quang_Ngai.png/revision/latest?cb=20211122101825&path-prefix=vi", PTQ HD SV2| TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
-http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/quangngaitv/playlist.m3u8&ua=Moliza
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
@@ -1283,9 +1282,9 @@ https://bom.so/khichtv-live-QN3-fhd?key/index.m3u8
 #EXTINF: -1 tvg-id = "thainguyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/78i2i4aw_thainguyen_296_168.webp", TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡|Khích TiVi TN2" tvg-logo="https://i.ibb.co/XyXNKxW/TN2-HD-logo-2017.png", Thái Nguyên 1
-http://bentre5.hoangai.vn:502/stream?url=https://cmcdp.vtvdigital.vn/live/thainguyentv/playlist.m3u8&ua=Moliza
+https://vtvgolive-liveh34.vtvdigital.vn/hls/THAINGUYENTV/02.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD SV1 | TH Thanh Hóa
-https://stream1.freetv.fun/67eca37ff4e4de80a8848757a1370f616a8df38931de8f7a4c207d0b1174753b.m3u8
+https://vtvgolive-liveh12.vtvdigital.vn/hls/THANHHOATV/02.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa SV2 khích TV live
 https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6de1e946b5c728def3bea105423a130b69150b09e9dd722110e26ec47c33ea43dc5d6ce57d00939827dd79c04a821142394211b9471892ca6b2c8a22b4fe6376e3067448b5abbfea6da0f983ffd9843f2c3e08793b19bf7539ed46cb3d87d4556e24331116395a5e3cddd05f3c470eb9b0a460b6ab0b2100d6706227ee8adf39fa8b6ccc9a10f898fb2aef2b68ede41ec34442b14481a3427bb0b7fe1d96437cb9/mobile.m3u8?=khichtivi
@@ -1302,7 +1301,7 @@ http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/tuyen
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/vBywzYG/TRT2-logo-khichtv.png", TRT2 HD
 #EXTVLCOPT:http-user-agent=Moliza
-http://bentre5.hoangai.vn:502/stream?url=https://cmcdp1.vtvdigital.vn/live/huetv/playlist.m3u8
+
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/52HDD5k/vtv-Hue-khichtv.png", VTV HUẾ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
