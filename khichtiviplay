@@ -1225,8 +1225,6 @@ https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT:http-user-agent=Moliza
 https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tpRfcXND/STV2-HD-2025-logo-khichtivi.png", STV2 HD | TH Sóc Trăng
-#EXTVLCOPT:http-user-agent=Moliza 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF: -1 tvg-id = "sonla" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20210107094712&path-prefix=vi", STV HD | TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
