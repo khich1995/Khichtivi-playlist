@@ -395,9 +395,9 @@ http://bentre5.hoangai.vn:3333/get_media_link?path=https://vieon.vn/truyen-hinh-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="spotv"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNJuoEhY0tRrMU8wcsu-oOBhmEhRWFT7RwjO-Q0XaMw&s" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV1
-
+http://113.177.113.147:4022/rtp/232.84.1.11:8040
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2czfn2fkp9rzA0YXI3lZXslKUt9c3GjNvAiGIT6L&s" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV2
-
+http://113.177.113.147:4022/rtp/232.84.1.12:8046
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -644,7 +644,7 @@ https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv9hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png" tvg-id="sctv10hd",SCTV9 4K
 #EXTGRP:SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-
+http://113.177.113.147:4022/rtp/
 #http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac0
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚|MyK+ SCTV" tvg-logo="https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png", SCTV9 HD
 
