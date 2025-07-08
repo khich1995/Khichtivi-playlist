@@ -779,7 +779,8 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HITV HD
 #EXTVLCOPT:http-user-agent=Khichtivi/2.1
-https://1.org.vn/Khichtv-360-32-hitv-mpd
+http://113.177.113.147:4022/rtp/232.84.1.55:8310
+#https://1.org.vn/Khichtv-360-32-hitv-mpd
 #http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/Vc45wHD5/You-TV-logo-khichtivi.png", YOUTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
