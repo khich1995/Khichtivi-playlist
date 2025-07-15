@@ -643,8 +643,8 @@ https://1.org.vn/Khích📺-SCTV8-FHD-LIVE🔓|Referer=http://sctvonline.vn/
 https://1.org.vn/Khích📺-SCTV9-FHD-LIVE🔐|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv9hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png" tvg-id="sctv10hd",SCTV9 4K
 #EXTGRP:SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-http://113.177.113.147:4022/rtp/
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://tbtv.us/api/sctvonline/4m24j4jp7ab0kma4o0ego4aacc/sctv9/index.m3u8#|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac0
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚|MyK+ SCTV" tvg-logo="https://i.ibb.co/mcH0ZrN/SCTV9-logo-khichtv.png", SCTV9 HD
 
