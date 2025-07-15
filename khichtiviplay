@@ -505,7 +505,7 @@ https://sgchill.io.vn/360/189/index.m3u8
 https://sgchill.io.vn/360/176/index.m3u8
 #EXTINF:-1 group-title="vtvcab10hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/15/6qd3yx7u_echannel_thumb14bb6471bf25a239b0b528ab0f151404_296_168.webp",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://bentre5.hoangai.vn:8086/stream/WlNGUjIxditiTURKV2s1bDhWTEZnUT09/Y2pxOExUbGFmV0lja05NOWR0NGw2Zz09/khichtv/fhwuw@4216/playlist.mpegts
+https://xem.TruyenHinh.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/zg64gsxt_on-styleb8f508c8edc69dbf75b318ea1bc04f6c_296_168.webp" ,VTVCAB12 - STYLE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #khichtivi=184
@@ -582,7 +582,7 @@ https://sgchill.io.vn/360/212/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/i0zj1wvg_vtvcablife_296_168.webp", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/j8xthfzb_vtvcab23-on-golf-thumb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
