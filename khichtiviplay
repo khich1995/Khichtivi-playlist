@@ -84,7 +84,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 #EXTINF:0 tvg-id="sctv15hd" group-title="❤️1️⃣7️⃣/0️⃣6️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/17/06/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
-#http://113.177.113.147:4022/rtp/232.84.3.22:11920
+#http://14.229.232.52:4022/rtp/232.84.3.22:11920
 https://1.org.vn/Khíchtv-SCTV15-HD-LIVE🤫|Referer=http://sctvonline.vn/
 
 #-*--THVL FHD-*--#
@@ -1324,7 +1324,8 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://live247.freem3u.xyz:21585/hbo/index.m3u8
+http://14.229.232.52:4022/rtp232.84.3.101:10648
+#http://live247.freem3u.xyz:21585/hbo/index.m3u8
 #http://42.113.181.143:8090/udp/225.1.1.112:30120
 #https://canvato.net/BkMV3?get:khichtivi=&hbohd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
@@ -1342,10 +1343,10 @@ http://122.117.71.103:8668/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #https://freem3u.xyz/r/cnjsupng?=khichtivi=hbohits
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
-http://14.229.232.52:4022/rtp/225.1.2.86:30120
+http://14.229.232.52:4022/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=khichtv/17-03-24
+#EXTVLCOPT:http-user- http-user-age thể
 #EXTVLCOPT:http-use  zmr-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/Wz8NkG2/khichtv-live-Cinemax.jpg" group-title="Quốc Tế",Cinemax khích Tivi Online🇻🇳
