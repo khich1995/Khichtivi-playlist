@@ -155,9 +155,8 @@ http://14.229.232.52:4022/rtp/232.84.3.43:11794
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 FULL HD
-http://113.177.113.147:4022/rtp/232.84.1.125:10326
+http://14.229.232.52:4022/rtp/232.84.1.125:10326
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 FULL HD
-
 http://14.229.232.52:4022/rtp/232.84.1.176:10374
 #https://canvato.net/bnpO9?=getkhichtv=&k+sport2
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/ekc4eW5DdjFhTVBaS2ZaYWhqYzVYWDhLZUFLV2tVeTBTaENUbTl3VHZuNnMxUjI0TzgxUXJQOEdaUU5vSWJlU2VTOW9IMG1NcjMrWkJtWnU2RXFzeHNpeEIzU2gxMkh6T3NQeG9aZEV6TUU9/khichtv/77332/playlist.mpegts
