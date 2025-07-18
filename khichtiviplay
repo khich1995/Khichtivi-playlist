@@ -1196,7 +1196,7 @@ https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5NaOctI.png", Long An FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTINF: -1 tvg-id = "namdinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/6fvhqoke_namdinhe7c082f8b4d11f98d788f2471c8e7c10_296_168.webp", NTV HD| TH Nam Định
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
