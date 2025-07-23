@@ -451,7 +451,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoa
 #https://1.org.vn/Khích🇻🇳-80vie-giai-tri-HD-LIVE
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="khichVIP VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png",VTVCAB1 SCTV online FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?oid=viegiaitri
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=viegiaitri
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/b7xiixf4_vtvcab2-on-phim-viet-thumbf1932b18ec54e502ad4872c481e0207c_296_168.webp",ON PHIM VIỆT NAM HD🇻🇳
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=175
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =175
@@ -466,8 +466,7 @@ https://1.org.vn/Khichtv80-vtvcab3HD-LIVE
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/sCPbVn5/On-Sports-vbktv.jpg" group-title="VTVCab" ,ON SPORTS HD 
 https://1.org.vn/Khichtv80-vtvcab3-LIVE🔓
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/sty4e4sg_vtvcab44114b17a056da5e07f7d8913b5639105_296_168.webp" ,ON MOVIES FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?oid=onmovies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onmovies
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png" ,ON MOVIES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.=181
 https://xem.TruyenHinh.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
@@ -574,7 +573,7 @@ https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/360/179/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3myPY7zR/Vie-Channel-by-Dat-Viet-VAC-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", ON vie channel
 https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=haivolo
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
@@ -582,7 +581,7 @@ https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=haivolo
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.io.vn/360/212/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/i0zj1wvg_vtvcablife_296_168.webp", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
