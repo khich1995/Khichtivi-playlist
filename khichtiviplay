@@ -495,13 +495,13 @@ https://xem.TruyenHinh.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}",VTVCAB8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=136
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=178
-https://sgchill.io.vn/360/136/index.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp",ON BIBI
 https://xem.TruyenHinh.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/muq35ckg_vtvcab972bb1cda7c551a4dca108969ee17fb8a_296_168.webp" ,VTVCab9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =189
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://xem.TruyenHinh.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/53opprfc_vtvcab10-on-cine-thumb_296_168.webp",ON CINE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://sgchill.io.vn/360/176/index.m3u8
@@ -528,7 +528,8 @@ https://1.org.vn/Khichtv80-vtvcab16HD-LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onfootball
+#https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/akRMa2VtVys2QmFkaWlVdURMeW9KdWQ3eWIzMzVOYnpXUTl4aUQwWmFoTT0=/khichtv/77332/playlist.mpegts
 #http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/S1ZCQnMvZmhwOHdYMFBrL0NsRVJ5UT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://p1.cvtv.xyz/bun?token=live
@@ -547,7 +548,8 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsnews
+#https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
